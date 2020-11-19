@@ -1,0 +1,10 @@
+name: mlbfa_shiny
+title:
+username:
+account: cooperlogerfo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 594595
+bundleId: 1726610
+url: https://cooperlogerfo.shinyapps.io/mlbfa_shiny/
+when: 1543430097.30816

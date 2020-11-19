@@ -1,0 +1,1029 @@
+﻿target year,name,avg value,race,team,position,contractValue,contractDuration,war,age,BirthPlace,experience,college,contractAge,contractExperience
+2011,Albert Pujols,25000000,2,Angels,1B,250000000,10,6.4,38,Dominican Republic,17,Maple Woods CC,32,11
+2010,Cliff Lee,24000000,1,Phillies,P,120000000,5,6.666666667,39,"Benton, AR",13,Arkansas,32,6
+2013,Robinson Cano,24000000,3,Mariners,2B,240000000,10,6.166666667,35,"San Pedro de Macoris, Dominican Republic",13,None,31,9
+2017,Eduardo Nunez,4000000,2,Red Sox,2B,4000000,1,2.06,30,"Santo Domingo, DR",8,None,30,8
+2015,David Price,31000000,3,Red Sox,P,217000000,7,5.666666667,32,"Murfreesboro, TN",10,Vanderbilt,30,8
+2012,Josh Hamilton,24600000,1,Angels,OF,123000000,5,5.566666667,36,"Raleigh, NC",9,None,31,4
+2010,Carl Crawford,20285714.29,3,Red Sox,OF,142000000,7,5.433333333,36,"Houston, TX",15,None,29,8
+2013,Jacoby Ellsbury,21857142.86,1,Yankees,OF,153000000,7,5.4,34,"Madras, OR",11,Oregon State,30,7
+2014,Max Scherzer,30000000,1,Nationals,P,210000000,7,5.233333333,33,"St. Louis, MO",10,Missouri,30,7
+2014,Chase Headley,13000000,1,Yankees,3B,52000000,4,5.1,33,"Fountain, CO",11,Tennessee,30,8
+2010,Jayson Werth,18000000,1,Nationals,OF,126000000,7,4.966666667,38,"Springfield, IL",15,None,31,8
+2015,Jason Heyward,23000000,3,Cubs,OF,184000000,8,4.866666667,28,"Ridgewood, NJ",8,None,26,6
+2012,Michael Bourn,12000000,3,Indians,OF,48000000,4,4.8,35,"Houston, TX",11,Houston,30,6
+2017,Howie Kendrick,3500000,3,Nationals,OF,7000000,2,4.6,34,"Jacksonville, FL",12,St. John's River State CC,34,12
+2017,Jake Arrieta,25000000,1,Phillies,P,75000000,3,4.5,32,"Farmington, MO",8,TCU,32,8
+2017,Miguel Gonzalez,4750000,2,White Sox,P,4750000,1,4.5,33,"Guadalajara, Mexico",6,None,33,6
+2015,Zack Greinke,34416666.67,1,Diamondbacks,P,206500000,6,4.5,34,"Orlando, FL",14,None,32,12
+2015,Chris Davis,23000000,1,Orioles,1B,161000000,7,4.5,32,"Longview, TX",10,None,30,8
+2012,Zack Greinke,24500000,1,Dodgers,P,147000000,6,4.5,34,"Orlando, FL",14,None,29,9
+2016,Yoenis Cespedes,27500000,2,Mets,OF,110000000,4,4.4,32,"Campechuela, Cuba",6,None,31,5
+2017,Lorenzo Cain,16000000,3,Brewers,OF,80000000,5,4.366666667,31,"Valdosta, GA",8,None,31,8
+2015,Alex Gordon,18000000,1,Royals,OF,72000000,4,4.3,34,"Lincoln, NE",11,Nebraska,32,9
+2016,Justin Turner,16000000,1,Dodgers,3B,64000000,4,4.233333333,33,"Long Beach, CA",9,Cal State Fullerton,32,8
+2015,Ben Zobrist,14000000,1,Cubs,2B,56000000,4,4.166666667,36,"Eureka, IL",12,Dallas Baptist,34,10
+2015,Yoenis Cespedes,25000000,2,Mets,OF,75000000,3,4.133333333,32,"Campechuela, Cuba",6,None,30,4
+2010,Adrian Beltre,16000000,2,Rangers,3B,96000000,6,4.133333333,38,"Santo Domingo, Dominican Republic",20,None,31,13
+2010,Adam Dunn,14000000,1,White Sox,DH,56000000,4,4.133333333,38,"Houston, TX",14,Texas,31,7
+2016,Jose Bautista,18000000,2,Blue Jays,OF,18000000,1,4.066666667,37,"Santo Domingo, DR",14,None,36,13
+2010,Derek Jeter,17000000,3,Yankees,SS,51000000,3,4.066666667,43,"Pequannock, NJ",20,None,36,13
+2010,Lance Berkman,8000000,1,Cardinals,DH,8000000,1,4.03,42,"Waco, TX",15,Rice,35,8
+2016,Edwin Encarnacion,20000000,2,Indians,DH,60000000,3,4,35,"La Romana, DR",13,None,34,12
+2015,Jordan Zimmermann,22000000,1,Tigers,P,110000000,5,4,31,"Auburndale, WI",9,Wisconsin-Stevens Point,29,7
+2012,Shane Victorino,13000000,4,Red Sox,OF,39000000,3,3.966666667,37,"Wailuku, HI",13,None,32,8
+2012,Nick Swisher,14000000,1,Indians,OF,56000000,4,3.9,37,"Columbus, OH",13,Ohio State,32,8
+2012,Dan Haren,13000000,1,Nationals,P,13000000,1,3.9,37,"Monterey Park, CA",13,Pepperdine,32,8
+2014,Jon Lester,25833333.33,1,Cubs,P,155000000,6,3.866666667,34,"Tacoma, WA",12,None,31,9
+2014,James Shields,18750000,1,Padres,P,75000000,4,3.8,36,"Newhall, CA",12,None,33,9
+2013,Mike Napoli,16000000,1,Red Sox,1B,32000000,2,3.766666667,36,"Hollywood, FL",12,None,32,8
+2010,Javier Vazquez,7000000,2,Marlins,P,7000000,1,3.733333333,41,"Ponce, Puerto Rico",14,None,34,7
+2013,Curtis Granderson,15000000,3,Mets,OF,60000000,4,3.7,37,"Blue Island, IL",14,UIC,33,10
+2013,Jhonny Peralta,13250000,2,Cardinals,3B,53000000,4,3.7,35,"Santiago, Dominican Republic",15,None,31,11
+2014,Russell Martin,16400000,3,Blue Jays,C,82000000,5,3.666666667,35,"East York, ON",12,None,32,9
+2011,Carlos Beltran,13000000,2,Cardinals,DH,26000000,2,3.633,40,"Manati, Puerto Rico",20,None,34,14
+2012,Anibal Sanchez,16000000,2,Tigers,P,80000000,5,3.6,34,"Maracay, Venezuela",12,None,29,7
+2012,Melvin Upton Jr.,15050000,3,Braves,OF,75250000,5,3.6,33,"Norfolk, VA",13,None,28,8
+2012,Hiroki Kuroda,15000000,4,Yankees,P,15000000,1,3.6,43,"Osaka, Japan",7,None,38,2
+2011,C.J. Wilson,15500000,1,Angels,P,77500000,5,3.6,37,"Newport Beach, CA",11,Loyola Marymount,31,5
+2017,J.D. Martinez,22000000,2,Red Sox,OF,110000000,5,3.533333333,30,"Miami, FL",7,Nova Southeastern,30,7
+2012,Angel Pagan,10000000,2,Giants,OF,40000000,4,3.533333333,36,"Rio Piedras, Puerto Rico",11,None,31,6
+2015,Justin Upton,22125000,3,Tigers,OF,132750000,6,3.466666667,30,"Norfolk, VA",11,None,28,9
+2013,Hiroki Kuroda,16000000,4,Yankees,P,16000000,1,3.4,43,"Osaka, Japan",7,None,39,3
+2010,Hiroki Kuroda,12000000,4,Dodgers,P,12000000,1,3.4,43,"Osaka, Japan",7,None,36,0
+2011,Mark Buehrle,14500000,1,Marlins,P,58000000,4,3.366666667,39,"St. Charles, MO",16,Jefferson,33,10
+2017,Todd Frazier,8500000,1,Mets,3B,17000000,2,3.333333333,32,"Toms River, NJ",7,Rutgers,32,7
+2012,Mike Napoli,5000000,1,Red Sox,1B,5000000,1,3.3,36,"Hollywood, FL",12,None,31,7
+2012,Andres Torres,2000000,2,Giants,OF,2000000,1,3.3,40,"Paterson, NJ",9,None,35,4
+2011,Prince Fielder,23777777.78,3,Tigers,DH,214000000,9,3.3,33,"Ontario, CA",12,None,27,6
+2017,Curtis Granderson,5000000,3,Blue Jays,OF,5000000,1,3.266666667,37,"Blue Island, IL",14,UIC,37,14
+2010,Manny Ramirez,2000000,2,Rays,OF,2000000,1,3.233333333,45,"Santo Domingo, Dominican Republic",19,None,38,12
+2013,Carlos Ruiz,8666666.667,2,Phillies,C,26000000,3,3.2,39,"David, Panama",12,None,35,8
+2010,Johnny Damon,5250000,1,Rays,OF,5250000,1,3.2,44,"Fort Riley, KS",18,None,37,11
+2016,Neil Walker,17200000,1,Mets,2B,17200000,1,3.166666667,32,"Pittsburgh, PA",9,None,31,8
+2016,Carlos Beltran,16000000,2,Astros,DH,16000000,1,3.166666667,40,"Manati, Puerto Rico",20,None,39,19
+2013,Dan Haren,10000000,1,Dodgers,P,10000000,1,3.166666667,37,"Monterey Park, CA",13,Pepperdine,33,9
+2015,Johnny Cueto,21666666.67,2,Giants,P,130000000,6,3.133333333,32,"San Pedro de Macoris, DR",10,None,30,8
+2017,Yu Darvish,21000000,4,Cubs,P,126000000,6,3.1,31,"Habikino, Japan",5,None,31,5
+2016,Dexter Fowler,16500000,3,Cardinals,OF,82500000,5,3.1,32,"Atlanta, GA",10,None,31,9
+2016,Carlos Gomez,11500000,2,Rangers,OF,11500000,1,3.1,32,"Santiago, DR",11,None,31,10
+2015,Howie Kendrick,10000000,3,Dodgers,OF,20000000,2,3.1,34,"Jacksonville, FL",12,St. John's River State CC,32,10
+2014,Kris Medlen,4250000,1,Royals,P,8500000,2,3.1,32,"Artesia, CA",7,None,29,4
+2013,Shin-Soo Choo,18571428.57,4,Rangers,OF,130000000,7,3.1,35,"Busan, South Korea",13,None,31,9
+2012,Brandon McCarthy,7750000,1,Diamondbacks,P,15500000,2,3.1,34,"Glendale, CA",12,None,29,7
+2011,Hiroki Kuroda,10000000,4,Yankees,P,10000000,1,3.1,43,"Osaka, Japan",7,None,37,1
+2015,Jeff Samardzija,18000000,1,Giants,P,90000000,5,3.066666667,33,"Merrillville, IN",10,Notre Dame,31,8
+2015,Bartolo Colon,7250000,2,Mets,P,7250000,1,3.066666667,44,"Altamira, DR",20,None,42,18
+2011,Jose Reyes,17666666.67,2,Marlins,SS,106000000,6,3.033333333,34,"Villa Gonzalez, Dominican Republic",15,None,28,9
+2017,Zack Cozart,12666666.67,1,Angels,3B,38000000,3,3,32,"Memphis, TN",7,Ole Miss,32,7
+2016,Ian Desmond,14000000,1,Rockies,OF,70000000,5,3,32,"Sarasota, FL",9,None,31,8
+2015,Colby Rasmus,15800000,1,Astros,OF,15800000,1,3,31,"Columbus, GA",9,None,29,7
+2015,Ian Desmond,8000000,1,Rangers,OF,8000000,1,3,32,"Sarasota, FL",9,None,30,7
+2010,Derrek Lee,7500000,3,Orioles,1B,7500000,1,3,42,"Sacramento, CA",15,None,35,8
+2015,Hisashi Iwakuma,12000000,4,Mariners,P,12000000,1,2.966666667,36,"Tokyo, Japan",6,None,34,4
+2013,Bartolo Colon,10000000,2,Mets,P,20000000,2,2.966666667,44,"Altamira, Dominican Republic",20,None,40,16
+2017,Carlos Santana,20000000,2,Phillies,1B,60000000,3,2.933333333,31,"Santo Domingo, DR",8,None,31,8
+2015,Denard Span,10333333.33,3,Giants,OF,31000000,3,2.933333333,34,"Washington, DC",10,None,32,8
+2014,A.J. Burnett,8500000,1,Pirates,P,8500000,1,2.933333333,41,"North Little Rock, AR",17,None,38,14
+2012,Edwin Jackson,13000000,3,Cubs,P,52000000,4,2.933333333,34,"Neu-Ulm, West Germany",15,None,29,10
+2012,Kevin Youkilis,12000000,1,Yankees,3B,12000000,1,2.933333333,39,"Cincinnati, OH",10,Cincinnati,34,5
+2012,Lance Berkman,11000000,1,Rangers,DH,11000000,1,2.933333333,42,"Waco, TX",15,Rice,37,10
+2011,Jimmy Rollins,12666666.67,3,Phillies,SS,38000000,3,2.866666667,39,"Oakland, CA",17,None,33,11
+2015,John Lackey,16000000,1,Cubs,P,32000000,2,2.833333333,39,"Abilene, TX",15,GRAYSON COUNTY,37,13
+2015,Chase Utley,7000000,1,Dodgers,2B,7000000,1,2.833333333,39,"Pasadena, CA",15,UCLA,37,13
+2011,Casey Blake,2000000,1,Rockies,3B,2000000,1,2.833333333,44,"Des Moines, IA",13,Wichita State,38,7
+2013,Ricky Nolasco,12250000,2,Twins,P,49000000,4,2.8,35,"Corona, CA",12,None,31,8
+2013,Omar Infante,7500000,2,Royals,2B,30000000,4,2.8,36,"Puerto la Cruz, Venezuela",16,None,32,12
+2016,Bartolo Colon,12500000,2,Braves,P,12500000,1,2.733333333,44,"Altamira, DR",20,None,43,19
+2013,A.J. Burnett,16000000,1,Phillies,P,16000000,1,2.733333333,41,"North Little Rock, AR",17,None,37,13
+2017,Neil Walker,4000000,1,Yankees,2B,4000000,1,2.7,32,"Pittsburgh, PA",9,None,32,9
+2016,Aroldis Chapman,17200000,2,Yankees,P,86000000,5,2.7,30,"Holguin, Cuba",8,None,29,7
+2015,Scott Kazmir,16000000,1,Dodgers,P,48000000,3,2.7,34,"Houston, TX",12,None,32,10
+2013,Brian McCann,17000000,1,Yankees,C,85000000,5,2.7,34,"Athens, GA",13,None,30,9
+2010,Russell Martin,4000000,2,Yankees,C,4000000,1,2.7,35,"East York, ON",12,None,28,5
+2014,Jake Peavy,12000000,1,Giants,P,24000000,2,2.666666667,36,"Mobile, AL",15,None,33,12
+2014,Jed Lowrie,7666666.67,1,Astros,2B,23000000,3,2.666666667,33,"Salem, OR",10,Stanford,30,7
+2010,Victor Martinez,12500000,2,Tigers,DH,50000000,4,2.666666667,39,"Ciudad Bolivar, Venezuela",15,None,32,8
+2010,Paul Konerko,12500000,1,White Sox,DH,37500000,3,2.666666667,42,"Providence, RI",18,None,35,11
+2010,Brandon Webb,3000000,1,Rangers,P,3000000,1,2.65,38,"Ashland, KY",7,Kentucky,31,0
+2015,Daniel Murphy,12500000,1,Nationals,2B,37500000,3,2.633333333,32,"Jacksonville, FL",9,Jacksonville,30,7
+2013,Matt Garza,12500000,2,Brewers,P,50000000,4,2.633333333,34,"Selma, CA",12,Fresno State,30,8
+2012,Ryan Dempster,13250000,1,Red Sox,P,26500000,2,2.633333333,40,"Gibsons, Canada",16,None,35,11
+2014,Torii Hunter,10500000,3,Twins,OF,10500000,1,2.63,42,"Pine Bluff, AR",19,None,39,16
+2017,Michael Pineda,5000000,2,Twins,P,10000000,2,2.6,29,"Yaguate, DR",6,None,29,6
+2013,Chris Young,7250000,3,Mets,OF,7250000,1,2.6,34,"Houston, TX",12,None,30,8
+2012,Scott Baker,5500000,1,Cubs,P,5500000,1,2.6,36,"Shreveport, LA",10,Oklahoma State,31,5
+2012,Francisco Liriano,1000000,2,Pirates,P,1000000,1,2.6,34,"San Cristobal, Dominican Republic",12,None,29,7
+2011,David DeJesus,5000000,2,Cubs,OF,10000000,2,2.6,38,"Brooklyn, NY",13,Rutgers,32,7
+2014,Victor Martinez,17000000,2,Tigers,DH,68000000,4,2.55,39,"Ciudad Bolivar, Venezuela",15,None,36,12
+2012,Bartolo Colon,3000000,2,Athletics,P,3000000,1,2.55,44,"Altamira, Dominican Republic",20,None,39,15
+2016,Tyson Ross,6000000,3,Rangers,P,6000000,1,2.533333333,30,"Berkeley, CA",8,California,29,7
+2010,Aubrey Huff,11000000,1,Giants,1B,22000000,2,2.533333333,41,"Marion, OH",13,Miami,34,6
+2010,Carlos Pena,10000000,2,Cubs,1B,10000000,1,2.533333333,39,"Santo Domingo, Dominican Republic",14,Northeastern,32,7
+2017,Eric Hosmer,18000000,1,Padres,1B,144000000,8,2.5,28,"South Miami, FL",7,None,28,7
+2014,Pablo Sandoval,19000000,2,Red Sox,3B,95000000,5,2.5,31,"Puerto Cabello, Venezuela",10,None,28,7
+2014,Hanley Ramirez,22000000,2,Red Sox,DH,88000000,4,2.5,34,"Samana, DR",13,None,31,10
+2016,Steve Pearce,6250000,1,Blue Jays,OF,12500000,2,2.433333333,34,"Lakeland, FL",11,South Carolina,33,10
+2013,Tim Hudson,11500000,1,Giants,P,23000000,2,2.433333333,42,"Columbus, GA",17,Auburn,38,13
+2012,Ichiro Suzuki,6500000,4,Yankees,OF,13000000,2,2.433333333,44,"Kasugai, Japan",17,None,39,12
+2011,Joel Pineiro,1250000,2,Phillies,P,minor,,2.433333333,39,"Rio Piedras, Puerto Rico",12,None,33,6
+2015,Marlon Byrd,1000000,3,Indians,OF,minor   ,1,2.4,40,"Boynton Beach, FL",15,None,38,13
+2010,Orlando Hudson,5750000,3,Padres,3B,11500000,2,2.3667,40,"Darlington, SC",11,None,33,4
+2015,Wei-Yin Chen,16000000,4,Marlins,P,80000000,5,2.366666667,32,"Kaohsiung City, Taiwan",6,None,30,4
+2015,Mike Napoli,7000000,1,Indians,1B,7000000,1,2.366666667,36,"Hollywood, FL",12,None,34,10
+2014,Alex Rios,11000000,2,Royals,OF,11000000,1,2.366666667,37,"Coffee, AL",12,None,34,9
+2013,Daniel Hudson,1250000,1,Diamondbacks,P,minor,1,2.35,31,"Lynchburg, VA",8,Old Dominion,27,4
+2017,Jarrod Dyson,3750000,3,Diamondbacks,OF,7500000,2,2.333333333,33,"Mccomb, MS",8,None,33,8
+2016,Kenley Jansen,16000000,3,Dodgers,P,80000000,5,2.333333333,30,"Willemstad, Netherlands Antilles",8,None,29,7
+2013,Jarrod Saltalamacchia,7000000,2,Marlins,C,21000000,3,2.333333333,32,"West Palm Beach, FL",11,None,28,7
+2011,Josh Willingham,7000000,1,Twins,OF,21000000,3,2.333333333,39,"Florence, AL",11,North Alabama,33,5
+2017,Jonathan Lucroy,6500000,1,Athletics,C,6500000,1,2.3,31,"Eustis, FL",8,Louisiana,31,8
+2015,Dexter Fowler,13000000,3,Cubs,OF,13000000,1,2.3,32,"Atlanta, GA",10,None,30,8
+2014,Colby Rasmus,8000000,1,Astros,OF,8000000,1,2.3,31,"Columbus, GA",9,None,28,6
+2012,Melky Cabrera,8000000,2,Blue Jays,OF,16000000,2,2.3,33,"Bajos De Haina, Dominican Republic",13,None,28,8
+2013,Ubaldo Jimenez,12000000,2,Orioles,P,48000000,4,2.266666667,34,"Nagua, Dominican Republic",12,None,30,8
+2010,Jorge De La Rosa,10750000,2,Rockies,P,21500000,2,2.266666667,36,"Monterrey, Mexico",14,None,29,7
+2017,Lance Lynn,12000000,1,Twins,P,12000000,1,2.25,30,"Indianapolis, IN",6,Ole Miss,30,6
+2016,Josh Reddick,13000000,1,Astros,OF,52000000,4,2.233333333,31,"Savannah, GA",9,MIDDLE GEORGIA,30,8
+2017,Mike Moustakas,6500000,1,Royals,3B,6500000,1,2.2,29,"Los Angeles, CA",7,None,29,7
+2015,Yovani Gallardo,11000000,2,Orioles,P,22000000,2,2.2,32,"Michoacan, Mexico",11,None,30,9
+2012,Marco Scutaro,6666666.667,2,Giants,2B,20000000,3,2.2,42,"San Felipe, Venezuela",13,None,37,8
+2011,Paul Maholm,4750000,1,Cubs,P,4750000,1,2.2,35,"Greenwood, MS",10,Mississippi State,29,4
+2010,Mariano Rivera,15000000,2,Yankees,P,30000000,2,2.1667,48,"Panama City, Panama",19,None,41,12
+2016,Chase Utley,2000000,1,Dodgers,2B,2000000,1,2.166666667,39,"Pasadena, CA",15,UCLA,38,14
+2014,Francisco Liriano,13000000,2,Pirates,P,39000000,3,2.166666667,34,"San Cristobal, DR",12,None,31,9
+2012,Placido Polanco,2750000,2,Marlins,3B,2750000,1,2.166666667,42,"Santo Domingo, Dominican Republic",16,None,37,11
+2014,Brandon McCarthy,12000000,1,Dodgers,P,48000000,4,2.133333333,34,"Glendale, CA",12,None,31,9
+2012,Russell Martin,8500000,3,Pirates,C,17000000,2,2.133333333,35,"East York, ON",12,None,30,7
+2017,Mike Minor,9333333.33,1,Rangers,P,28000000,3,2.1,30,"Chapel Hill, TN",6,Vanderbilt,30,6
+2016,Luis Valbuena,7500000,2,Angels,3B,15000000,2,2.1,32,"Sucre, Venezuela",10,None,31,9
+2015,Austin Jackson,5000000,3,White Sox,OF,5000000,1,2.1,31,"Denton, TX",8,None,29,6
+2011,Coco Crisp,7000000,3,Athletics,OF,14000000,2,2.1,38,"Los Angeles, CA",15,None,32,9
+2011,Rafael Furcal,7000000,2,Cardinals,2B,14000000,2,2.1,40,"Loma de Cabrera, Dominican Republic",14,None,34,8
+2011,Carlos Pena,7250000,2,Rays,1B,7250000,1,2.1,39,"Santo Domingo, Dominican Republic",14,Northeastern,33,8
+2011,Livan Hernandez,750000,2,Astros,P,minor,,2.1,43,"Villa Clara, Cuba",17,None,37,11
+2015,Steve Pearce,4750000,1,Rays,OF,4750000,1,2.066666667,34,"Lakeland, FL",11,South Carolina,32,9
+2015,Juan Uribe,4000000,2,Indians,3B,4000000,1,2.066666667,39,"Palenque, DR",16,None,37,14
+2014,Melky Cabrera,14000000,2,White Sox,OF,42000000,3,2.066666667,33,"Bajos De Haina, DR",13,None,30,10
+2014,Justin Masterson,9500000,1,Red Sox,P,9500000,1,2.066666667,33,"Kingston, Jamaica",8,San Diego State,30,5
+2012,Stephen Drew,9500000,1,Red Sox,SS,9500000,1,2.066666667,35,"Valdosta, GA",12,Florida State,30,7
+2013,Colby Lewis,1250000,1,Rangers,P,minor,1,2.05,38,"Bakersfield, CA",11,None,34,7
+2015,Alexei Ramirez,4000000,2,Padres,SS,4000000,1,2.033333333,36,"Pinar del Rio, Cuba",9,None,34,7
+2014,Nelson Cruz,14250000,2,Mariners,DH,57000000,4,2.033333333,37,"Las Matas de Santa Cruz, DR",13,None,34,10
+2010,Carl Pavano,8250000,1,Twins,P,16500000,2,2.033333333,42,"New Britain, CT",14,None,35,7
+2012,Andy Pettitte,12000000,1,Yankees,P,12000000,1,2,45,"Baton Rouge, LA",18,None,40,13
+2017,Carlos Gomez,4000000,2,Rays,OF,4000000,1,1.966666667,32,"Santiago, DR",11,None,32,11
+2017,Bartolo Colon,1750000,2,Rangers,P,minor,1,1.966666667,44,"Altamira, DR",20,None,44,20
+2015,Mike Leake,16000000,1,Cardinals,P,80000000,5,1.966666667,30,"San Diego, CA",8,Arizona State,28,6
+2015,Shane Victorino,1000000,4,Cubs,OF,minor   ,1,1.966666667,37,"Wailuku, HI",13,None,35,11
+2013,A.J. Pierzynski,8250000,1,Red Sox,C,8250000,1,1.966666667,41,"Bridgehampton, NY",19,None,37,15
+2013,Chris Capuano,2250000,1,Red Sox,P,2250000,1,1.966666667,39,"Springfield, MA",12,Duke,35,8
+2010,Juan Uribe,7000000,2,Dodgers,3B,21000000,3,1.966666667,39,"Palenque, Dominican Republic",16,None,32,9
+2015,Doug Fister,7000000,1,Astros,P,7000000,1,1.933333333,34,"Merced, CA",9,Fresno State,32,7
+2011,Aaron Hill,5500000,1,Diamondbacks,2B,11000000,2,1.933333333,36,"Visalia, CA",13,LSU,30,7
+2017,CC Sabathia,10000000,3,Yankees,P,10000000,1,1.9,37,"Vallejo, CA",17,None,37,17
+2016,Andres Blanco,3000000,2,Phillies,3B,3000000,1,1.9,33,"Urama, Venezuela",10,None,32,9
+2015,Jimmy Rollins,743000,3,White Sox,SS,minor   ,1,1.9,39,"Oakland, CA",17,None,37,15
+2013,Mark Ellis,5250000,1,Cardinals,2B,5250000,1,1.9,40,"Rapid City, SD",12,Florida,36,8
+2012,Mariano Rivera,10000000,2,Yankees,P,10000000,1,1.9,48,"Panama City, Panama",19,None,43,14
+2012,Brett Myers,7000000,1,Indians,P,7000000,1,1.9,37,"Jacksonville, FL",12,None,32,7
+2011,Jamey Carroll,3375000,1,Twins,3B,6750000,2,1.9,44,"Evansville, IN",12,Evansville,38,6
+2011,Jonathan Papelbon,12500014.5,1,Phillies,P,50000058,4,1.9,37,"Baton Rouge, LA",12,Mississippi State,31,6
+2016,Jason Hammel,8000000,1,Royals,P,16000000,2,1.866666667,35,"Greenville, SC",12,None,34,11
+2010,Nick Punto,750000,1,Cardinals,2B,750000,1,1.866666667,40,"San Diego, CA",14,Saddleback ,33,7
+2011,Erik Bedard,4500000,1,Pirates,P,4500000,1,1.85,39,"Navan, Canada",11,None,33,5
+2017,Colby Rasmus,3000000,1,Orioles,OF,minor,1,1.833333333,31,"Columbus, GA",9,None,31,9
+2016,Trevor Plouffe,5250000,1,Athletics,3B,5250000,1,1.833333333,31,"West Hills, CA",8,None,30,7
+2015,J.A. Happ,12000000,1,Blue Jays,P,36000000,3,1.833333333,35,"Peru, IL",11,Northwestern,33,9
+2014,Chris Denorfia,2600000,1,Cubs,OF,2600000,1,1.833333333,37,"Bristol, CT",11,Wheaton  (Massachusetts,34,8
+2014,Corey Hart,2500000,1,Pirates,1B,2500000,1,1.833333333,36,"Bowling Green, KY",11,None,33,8
+2012,Geovany Soto,2750000,2,Rangers,C,2750000,1,1.833333333,35,"San Juan, Puerto Rico",13,None,30,8
+2011,Aramis Ramirez,12000000,2,Brewers,3B,36000000,3,1.833333333,39,"Santo Domingo, Dominican Republic",18,None,33,12
+2016,Mark Melancon,15500000,1,Giants,P,62000000,4,1.8,33,"Wheat Ridge, CO",9,Arizona,32,8
+2015,Chris Iannetta,4250000,1,Mariners,C,4250000,1,1.8,34,"Providence, RI",12,North Carolina,32,10
+2012,A.J. Pierzynski,7500000,1,Rangers,C,7500000,1,1.8,41,"Bridgehampton, NY",19,None,36,14
+2010,Jim Thome,3000000,1,Twins,DH,3000000,1,1.8,47,"Peoria, IL",22,None,40,15
+2016,Colby Rasmus,5000000,1,Rays,OF,5000000,1,1.766666667,31,"Columbus, GA",9,None,30,8
+2013,Juan Uribe,7500000,2,Dodgers,3B,15000000,2,1.766666667,39,"Palenque, Dominican Republic",16,None,35,12
+2013,Gavin Floyd,4000000,1,Braves,P,4000000,1,1.766666667,35,"Annapolis, MD",13,None,31,9
+2012,Cody Ross,8666666.667,1,Diamondbacks,OF,26000000,3,1.766666667,37,"Portales, NM",12,None,32,7
+2010,Aaron Harang,4000000,1,Padres,P,4000000,1,1.766666667,39,"San Diego, CA",14,San Diego State,32,7
+2010,Jhonny Peralta,5625000,2,Tigers,3B,11250000,2,1.766,35,"Santiago, Dominican Republic",15,None,28,8
+2010,Adam LaRoche,8000000,1,Nationals,DH,16000000,2,1.76,38,"Orange, CA",13,None,31,6
+2015,Colby Lewis,6000000,1,Rangers,P,6000000,1,1.75,38,"Bakersfield, CA",11,None,36,9
+2011,Jeff Francis,1250000,1,Reds,P,minor,1,1.75,37,"Vancouver, Canada",11,BRIT COLUMBIA,31,5
+2016,Wilson Ramos,6250000,2,Rays,C,12500000,2,1.733333333,30,"Valencia, Venezuela",8,None,29,7
+2011,Heath Bell,9000000,1,Marlins,P,27000000,3,1.733333333,40,"Oceanside, CA",11,None,34,5
+2011,Mark Ellis,4375000,1,Dodgers,2B,8750000,2,1.733333333,40,"Rapid City, SD",12,Florida,34,6
+2010,Miguel Tejada,6500000,2,Giants,2B,6500000,1,1.733,43,"Bani, Dominican Republic",16,None,36,9
+2016,Matt Holliday,13000000,1,Yankees,DH,13000000,1,1.73,38,"Stillwater, OK",14,None,37,13
+2014,Johan Santana,2250000,2,Blue Jays,P,minor,,1.7,39,"Tovar, Venezuela",12,None,36,9
+2010,Jerry Hairston Jr.,2000000,2,Nationals,3B,2000000,1,1.667,41,"Naperville, IL",16,S Illinois,34,9
+2017,Francisco Liriano,4000000,2,Tigers,P,4000000,1,1.666666667,34,"San Cristobal, DR",12,None,34,12
+2016,Rich Hill,16000000,1,Dodgers,P,48000000,3,1.666666667,38,"Boston, MA",13,Michigan,37,12
+2016,Rajai Davis,6000000,3,Athletics,OF,6000000,1,1.666666667,37,"Norwich, CT",12,UConn,36,11
+2015,Gerardo Parra,9166666.67,2,Rockies,OF,27500000,3,1.666666667,30,"Santa Barbara, Venezuela",9,None,28,7
+2015,Will Venable,507500,3,Indians,OF,minor   ,1,1.666666667,35,"Greenbrae, CA",9,Princeton,33,7
+2012,Jeremy Guthrie,8333333.333,1,Royals,P,25000000,3,1.666666667,38,"Roseburg, OR",14,Stanford,33,9
+2012,Jeff Francis,1500000,1,Rockies,P,1500000,1,1.666666667,37,"Vancouver, Canada",11,BRIT COLUMBIA,32,6
+2011,Freddy Garcia,4000000,2,Yankees,P,4000000,1,1.666666667,41,"Caracas, Venezuela",15,None,35,9
+2010,Koji Uehara,3000000,4,Orioles,P,3000000,1,1.65,43,"Neyagawa, Japan",9,None,36,2
+2017,Wade Miley,2500000,1,Brewers,P,minor,1,1.633333333,31,"Hammond, LA",7,SE Louisiana,31,7
+2015,Chris Denorfia,1000000,1,Yankees,OF,minor   ,1,1.633333333,37,"Bristol, CT",11,Wheaton  (Massachusetts,35,9
+2014,David Robertson,11500000,1,White Sox,P,46000000,4,1.633333333,32,"Birmingham, AL",10,Alabama,29,7
+2014,Jason Hammel,9000000,1,Cubs,P,18000000,2,1.633333333,35,"Greenville, SC",12,None,32,9
+2010,Miguel Olivo,3500000,2,Mariners,C,7000000,2,1.633333333,39,"Villa Vasquez, Dominican Republic",14,None,32,7
+2010,Jack Cust,2500000,1,Mariners,OF,2500000,1,1.633333333,39,"Flemington, NJ",10,None,32,3
+2016,Edinson Volquez,11000000,2,Marlins,P,22000000,2,1.6,34,"Barahona, DR",13,None,33,12
+2016,Andrew Cashner,10000000,1,Rangers,P,10000000,1,1.6,31,"Conroe, TX",8,TCU,30,7
+2015,Mat Latos,3000000,1,White Sox,P,3000000,1,1.6,30,"Alexandria, VA",9,None,28,7
+2014,Chris Capuano,5000000,1,Yankees,P,5000000,1,1.6,39,"Springfield, MA",12,Duke,36,9
+2014,Aaron Harang,5000000,1,Phillies,P,5000000,1,1.6,39,"San Diego, CA",14,San Diego State,36,11
+2013,Jason Vargas,8000000,2,Royals,P,32000000,4,1.6,35,"Apple Valley, CA",12,Long Beach State,31,8
+2013,Juan Perez,501000,2,Blue Jays,OF,minor,1,1.6,31,"Santiago, NY",4,None,27,0
+2011,Clint Barmes,5250000,1,Pirates,SS,10500000,2,1.6,39,"Vincennes, IN",14,Indiana State,33,8
+2011,Kevin Kouzmanoff,1250000,1,Royals,3B,minor,,1.6,36,"Newport Beach, CA",7,Nevada,30,1
+2010,Magglio Ordonez,10000000,2,Tigers,OF,10000000,1,1.6,44,"Caracas, Venezuela",15,None,37,8
+2010,Jose Contreras,2750000,2,Phillies,P,5500000,2,1.6,46,"Las Martinas, Cuba",11,None,39,4
+2016,R.A. Dickey,8000000,1,Braves,P,8000000,1,1.566666667,43,"Nashville, TN",15,Tennessee,42,14
+2015,Ian Kennedy,14000000,1,Royals,P,70000000,5,1.566666667,33,"Huntington Beach, CA",11,USC,31,9
+2015,Dioner Navarro,4000000,2,White Sox,C,4000000,1,1.566666667,34,"Caracas, Venezuela",13,None,32,11
+2013,Marlon Byrd,8000000,3,Phillies,OF,16000000,2,1.566666667,40,"Boynton Beach, FL",15,None,36,11
+2013,David Murphy,6000000,1,Indians,OF,12000000,2,1.566666667,36,"Houston, TX",11,Baylor,32,7
+2012,Joe Blanton,7500000,1,Angels,P,15000000,2,1.566666667,37,"Bowling Green, KY",13,Kentucky,32,8
+2011,Michael Cuddyer,10500000,1,Rockies,OF,31500000,3,1.566666667,39,"Norfolk, VA",15,None,33,9
+2011,Nick Punto,1000000,1,Red Sox,2B,3000000,3,1.566666667,40,"San Diego, CA",14,Saddleback ,34,8
+2011,Jim Thome,1250000,1,Phillies,DH,1250000,1,1.566666667,47,"Peoria, IL",22,None,41,16
+2011,Russell Branyan,500000,1,Yankees,1B,minor,,1.566666667,42,"Warner Robins, GA",14,None,36,8
+2010,Lyle Overbay,5000000,1,Pirates,1B,5000000,1,1.566666667,41,"Centralia, WA",14,Nevada,34,7
+2017,Tyler Chatwood,12666666.67,1,Cubs,P,38000000,3,1.55,28,"Redlands, CA",6,None,28,6
+2014,Colby Lewis,4000000,1,Rangers,P,4000000,1,1.55,38,"Bakersfield, CA",11,None,35,8
+2016,Jeremy Hellickson,17200000,1,Phillies,P,17200000,1,1.533333333,30,"Des Moines, IA",8,None,29,7
+2013,Paul Maholm,1500000,1,Dodgers,P,1500000,1,1.533333333,35,"Greenwood, MS",10,Mississippi State,31,6
+2013,Juan Carlos Oviedo,1500000,2,Rays,P,1500000,1,1.533333333,36,"Jamao Norte, Dominican Republic",8,None,32,4
+2012,Nyjer Morgan,1600000,3,Japan,OF,1600000,1,1.533333333,37,"San Francisco, CA",7,None,32,2
+2011,Aaron Harang,6000000,1,Dodgers,P,12000000,2,1.533333333,39,"San Diego, CA",14,San Diego State,33,8
+2010,Hideki Matsui,4250000,4,Athletics,OF,4250000,1,1.533333333,43,"Kanazaka, Japan",10,None,36,3
+2010,Tony Gwynn,675000,3,Dodgers,OF,675000,1,1.533333333,35,"Long Beach, CA",8,San Diego State,28,1
+2017,Andrew Cashner,8000000,1,Orioles,P,16000000,2,1.5,31,"Conroe, TX",8,TCU,31,8
+2016,Brandon Moss,6000000,1,Royals,OF,12000000,2,1.5,34,"Monroe, GA",11,None,33,10
+2015,Matt Wieters,15800000,1,Orioles,C,15800000,1,1.5,31,"Charleston, SC",9,Georgia Tech,29,7
+2014,Asdrubal Cabrera,7500000,2,Rays,SS,7500000,1,1.5,32,"Puerto La Cruz, Venezuela",11,None,29,8
+2014,Ichiro Suzuki,2000000,4,Marlins,OF,2000000,1,1.5,44,"Kasugai, Japan",17,None,41,14
+2014,Rickie Weeks,2000000,3,Mariners,DH,2000000,1,1.5,35,"Daytona, FL",14,Southern University,32,11
+2010,Jon Garland,5000000,1,Dodgers,P,5000000,1,1.5,38,"Valencia, CA",13,None,31,6
+2010,Jeff Francis,2000000,1,Royals,P,2000000,1,1.5,37,"Vancouver, Canada",11,BRIT COLUMBIA,30,4
+2017,Wade Davis,17333333.33,1,Rockies,P,52000000,3,1.466666667,32,"Lake Wales, FL",9,None,32,9
+2017,Addison Reed,8375000,1,Twins,P,16750000,2,1.466666667,29,"Montclair, CA",7,San Diego State,29,7
+2014,Ervin Santana,13750000,2,Twins,P,55000000,4,1.466666667,35,"San Cristobal, DR",13,None,32,10
+2013,Erik Bedard,1250000,1,Rays,P,minor,1,1.466666667,39,"Navan, Canada",11,None,35,7
+2012,Ryan Ludwick,7500000,1,Reds,OF,15000000,2,1.466666667,39,"Satellite Beach, FL",12,UNLV,34,7
+2011,Cody Ross,3000000,1,Red Sox,OF,3000000,1,1.466666667,37,"Portales, NM",12,None,31,6
+2017,Drew Smyly,5000000,1,Cubs,P,10000000,2,1.45,28,"Little Rock, AR",5,Arkansas,28,5
+2016,Franklin Gutierrez,2600000,2,Dodgers,OF,2600000,1,1.45,35,"Caracas, Venezuela",12,None,34,11
+2012,Ryan Madson,3500000,1,Angels,P,3500000,1,1.45,37,"Long Beach, CA",12,None,32,7
+2011,Bartolo Colon,900000,2,Athletics,P,900000,1,1.45,44,"Altamira, Dominican Republic",20,None,38,14
+2017,Carlos Gonzalez,8000000,2,Rockies,OF,8000000,1,1.433333333,32,"Maracaibo, Venezuela",10,None,32,10
+2017,Mike Fiers,6000000,1,Tigers,P,6000000,1,1.433333333,32,"Hollywood, FL",7,Nova Southeastern,32,7
+2017,Lucas Duda,3500000,1,Royals,1B,3500000,1,1.433333333,32,"Riverside, CA",8,USC,32,8
+2016,Jason Castro,8166666.67,2,Twins,C,24500000,3,1.433333333,30,"Castro Valley, CA",7,Stanford,29,6
+2016,Chris Iannetta,1700000,1,Diamondbacks,C,1700000,1,1.433333333,34,"Providence, RI",12,North Carolina,33,11
+2014,A.J. Pierzynski,2000000,1,Braves,C,2000000,1,1.433333333,41,"Bridgehampton, NY",19,None,38,16
+2013,Scott Feldman,10000000,1,Astros,P,30000000,3,1.433333333,35,"Kailua, HI",13,None,31,9
+2013,Phil Hughes,8000000,1,Twins,P,24000000,3,1.433333333,31,"Mission Viejo, CA",11,None,27,7
+2013,Bruce Chen,4250000,2,Royals,P,4250000,1,1.433333333,40,"Panama City, Panama",17,None,36,13
+2011,Ramon Hernandez,3200000,2,Rockies,C,6400000,2,1.433333333,41,"Caracas, Venezuela",16,None,35,10
+2011,Jerry Hairston Jr.,3000000,2,Dodgers,3B,6000000,2,1.433333333,41,"Naperville, IL",16,S Illinois,35,10
+2017,Cameron Maybin,3250000,3,Marlins,OF,3250000,1,1.4,30,"Asheville, NC",11,None,30,11
+2015,Rajai Davis,5250000,3,Indians,OF,5250000,1,1.4,37,"Norwich, CT",12,UConn,35,10
+2014,Michael Cuddyer,10500000,1,Mets,OF,21000000,2,1.4,39,"Norfolk, VA",15,None,36,12
+2014,Kyle Kendrick,5500000,1,Rockies,P,5500000,1,1.4,33,"Houston, TX",11,None,30,8
+2012,Jeff Keppinger,4000000,1,White Sox,2B,12000000,3,1.4,37,"Miami, FL",9,Georgia,32,4
+2012,Joakim Soria,4000000,2,Rangers,P,8000000,2,1.4,33,"Monclova, Mexico",10,None,28,5
+2012,David Ross,3100000,1,Red Sox,C,6200000,2,1.4,41,"Bainbridge, GA",15,Florida,36,10
+2012,Carlos Pena,2900000,2,Astros,1B,2900000,1,1.4,39,"Santo Domingo, Dominican Republic",14,Northeastern,34,9
+2017,Jhoulys Chacin,7750000,2,Brewers,P,15500000,2,1.366666667,30,"Maracaibo, Venezuela",9,None,30,9
+2017,Jaime Garcia,10000000,2,Blue Jays,P,10000000,1,1.366666667,31,"Reynosa, Mexico",9,None,31,9
+2016,Mike Napoli,8500000,1,Rangers,1B,8500000,1,1.366666667,36,"Hollywood, FL",12,None,35,11
+2013,Jason Hammel,6000000,1,Cubs,P,6000000,1,1.366666667,35,"Greenville, SC",12,None,31,8
+2013,Ryan Vogelsong,5000000,1,Giants,P,5000000,1,1.366666667,40,"Charlotte, NC",12,Kutztown,36,8
+2013,Kevin Youkilis,4000000,1,Japan,3B,4000000,1,1.366666667,39,"Cincinnati, OH",10,Cincinnati,35,6
+2012,Mike Pelfrey,4000000,1,Twins,P,4000000,1,1.366666667,34,"Wright Patterson Afb, OH",12,Wichita State,29,7
+2011,Ryan Madson,8500000,1,Reds,P,8500000,1,1.366666667,37,"Long Beach, CA",12,None,31,6
+2010,Grant Balfour,4050000,1,Athletics,P,8100000,2,1.366666667,40,"Sydney, Australia",12,None,33,5
+2010,Pat Burrell,1000000,1,Giants,OF,1000000,1,1.366666667,41,"Eureka Springs, AR",12,Miami,34,5
+2010,Fred Lewis,900000,3,Reds,OF,900000,1,1.366,37,"Hattiesburg, MS",7,Southern University,30,0
+2017,Austin Jackson,3000000,3,Giants,OF,6000000,2,1.333333333,31,"Denton, TX",8,None,31,8
+2015,Asdrubal Cabrera,9250000,2,Mets,SS,18500000,2,1.333333333,32,"Puerto La Cruz, Venezuela",11,None,30,9
+2015,Bud Norris,2500000,1,Braves,P,2500000,1,1.333333333,33,"Greenbrae, CA",9,Cal Poly,31,7
+2013,James Loney,7000000,3,Rays,1B,21000000,3,1.333333333,33,"Houston, TX",11,None,29,7
+2013,Nick Punto,3000000,1,Athletics,2B,3000000,1,1.333333333,40,"San Diego, CA",14,Saddleback ,36,10
+2011,Jason Marquis,3000000,1,Twins,P,3000000,1,1.333333333,39,"Manhasset, NY",15,None,33,9
+2011,Kevin Millwood,1000000,1,Mariners,P,minor,,1.333333333,43,"Gastonia, NC",16,None,37,10
+2010,Rafael Soriano,11666666.67,2,Yankees,P,35000000,3,1.333333333,38,"San Jose, Dominican Republic",14,None,31,7
+2010,Scott Hairston,1100000,2,Mets,OF,minor,1,1.33333333,37,"Fort Worth, TX",11,None,30,4
+2017,Alex Avila,4125000,2,Diamondbacks,C,8250000,2,1.3,31,"Hialeah, FL",9,Alabama,31,9
+2017,Jose Reyes,2000000,2,Mets,SS,2000000,1,1.3,34,"Villa Gonzalez, DR",15,None,34,15
+2017,Ricky Nolasco,1500000,2,Royals,P,minor,1,1.3,35,"Corona, CA",12,None,35,12
+2016,Jon Jay,8000000,1,Cubs,OF,8000000,1,1.3,33,"Miami, FL",8,Miami,32,7
+2014,Nick Markakis,11000000,1,Braves,OF,44000000,4,1.3,34,"Glen Cove, NY",12,None,31,9
+2013,Joe Nathan,10000000,1,Tigers,P,20000000,2,1.3,43,"Houston, TX",16,Stony Brook,39,12
+2013,Brendan Ryan,2500000,1,Yankees,SS,5000000,2,1.3,36,"Los Angeles, CA",11,Lewis & Clark,32,7
+2011,Luke Scott,6000000,1,Rays,DH,6000000,1,1.3,39,"DeLand, FL",9,Oklahoma State,33,3
+2011,Darren Oliver,4000000,1,Blue Jays,P,4000000,1,1.3,47,"Kansas City, MO",20,None,41,14
+2010,Justin Duchscherer,700000,1,Orioles,P,700000,1,1.3,40,"Aberdeen, SD",8,None,33,1
+2017,Jay Bruce,13000000,1,Mets,OF,39000000,3,1.266666667,30,"Beaumont, TX",10,None,30,10
+2016,Erick Aybar,1250000,2,Padres,SS,minor,1,1.266666667,34,"Bani, Dominican Republic",12,None,33,11
+2013,John Buck,1000000,1,Mariners,C,1000000,1,1.266666667,37,"Kemmerer, WY",11,None,33,7
+2013,Scott Kazmir,11000000,1,Athletics,P,22000000,2,1.25,34,"Houston, TX",12,None,30,8
+2013,Scott Baker,1250000,1,Mariners,P,minor,1,1.25,36,"Shreveport, LA",10,Oklahoma State,32,6
+2011,Chris Capuano,5000000,1,Dodgers,P,10000000,2,1.25,39,"Springfield, MA",12,Duke,33,6
+2017,Clay Buchholz,1500000,1,Royals,P,minor,1,1.233333333,33,"Nederland, TX",11,None,33,11
+2017,Rajai Davis,1750000,3,Indians,OF,minor,1,1.233333333,37,"Norwich, CT",12,UConn,37,12
+2016,Matt Wieters,10500000,1,Nationals,C,21000000,2,1.233333333,31,"Charleston, SC",9,Georgia Tech,30,8
+2016,Jorge De La Rosa,2250000,2,Diamondbacks,P,minor,1,1.233333333,36,"Monterrey, Mexico",14,None,35,13
+2016,Rubby De La Rosa,172000,2,Diamondbacks,P,minor,1,1.233333333,29,"Santo Domingo, Dominican Republic",7,None,28,6
+2015,David Freese,3000000,1,Pirates,3B,3000000,1,1.233333333,34,"Corpus Christi, TX",9,South Alabama,32,7
+2013,Nelson Cruz,8000000,2,Orioles,DH,8000000,1,1.233333333,37,"Las Matas de Santa Cruz, Dominican Republic",13,None,33,9
+2013,Kelly Johnson,3000000,1,Yankees,2B,3000000,1,1.233333333,36,"Austin, TX",11,None,32,7
+2013,Jeff Francis,1250000,1,Reds,P,minor,1,1.233333333,37,"Vancouver, Canada",11,BRIT COLUMBIA,33,7
+2011,Juan Pierre,800000,3,Phillies,OF,minor,,1.233333333,40,"Mobile, AL",14,South Alabama,34,8
+2010,Kevin Correia,4000000,1,Pirates,P,8000000,2,1.233333333,37,"San Diego, CA",13,Cal Poly,30,6
+2010,A.J. Pierzynski,4000000,1,White Sox,C,8000000,2,1.233333333,41,"Bridgehampton, NY",19,None,34,12
+2010,Vicente Padilla,2000000,2,Dodgers,P,2000000,1,1.233333333,40,"Chinandega, Nicaragua",14,None,33,7
+2017,Logan Morrison,6500000,1,Twins,1B,6500000,1,1.2,30,"Kansas City, MO",8,Maple Woods CC,30,8
+2017,Andres Blanco,1100000,2,Giants,3B,minor,1,1.2,33,"Urama, Venezuela",10,None,33,10
+2016,Jesse Chavez,5750000,2,Angels,P,5750000,1,1.2,34,"San Gabriel, CA",10,Riverside CC,33,9
+2016,Alex Avila,2000000,2,Tigers,C,2000000,1,1.2,31,"Hialeah, FL",9,Alabama,30,8
+2013,Jesse Crain,3250000,1,Astros,P,3250000,1,1.2,36,"Toronto, Canada",10,Houston,32,6
+2010,Frank Francisco,4000000,2,Blue Jays,P,4000000,1,1.2,38,"Santo Domingo, Dominican Republic",10,None,31,3
+2015,John Jaso,4000000,1,Pirates,1B,8000000,2,1.167,34,"Chula Vista, CA",9,None,32,7
+2010,Willie Harris,800000,3,Mets,OF,minor,1,1.16666667,39,"Cairo, GA",12,Kennesaw State,32,5
+2017,Mitch Moreland,6500000,1,Red Sox,1B,13000000,2,1.166666667,32,"Amory, MS",8,Mississippi State,32,8
+2017,Chris Iannetta,4250000,1,Rockies,C,8500000,2,1.166666667,34,"Providence, RI",12,North Carolina,34,12
+2016,Chris Carter,3000000,3,Yankees,1B,3000000,1,1.166666667,31,"Redwood City, CA",8,None,30,7
+2015,Marco Estrada,13000000,2,Blue Jays,P,26000000,2,1.166666667,34,"Sonora, Mexico",10,Long Beach State,32,8
+2015,Mike Pelfrey,8000000,1,Tigers,P,16000000,2,1.166666667,34,"Wright Patterson Afb, OH",12,Wichita State,32,10
+2015,Steve Cishek,5000000,1,Mariners,P,10000000,2,1.166666667,31,"Falmouth, MA",8,Carson-Newman,29,6
+2013,Mike Pelfrey,5500000,1,Twins,P,11000000,2,1.166666667,34,"Wright Patterson Afb, OH",12,Wichita State,30,8
+2013,Aaron Harang,1000000,1,Braves,P,minor,1,1.166666667,39,"San Diego, CA",14,San Diego State,35,10
+2012,Maicer Izturis,3333333.333,2,Blue Jays,2B,10000000,3,1.166666667,37,"Barquisimeto, Venezuela",12,None,32,7
+2012,Koji Uehara,4250000,4,Red Sox,P,4250000,1,1.166666667,43,"Neyagawa, Japan",9,None,38,4
+2011,Andruw Jones,2000000,3,Yankees,OF,2000000,1,1.166666667,40,"Willemstad, Netherlands Antilles",17,None,34,11
+2010,Melvin Mora,2000000,2,Diamondbacks,3B,2000000,1,1.166666667,46,"Agua Negra, Venezuela",13,None,39,6
+2017,Alex Cobb,14250000,1,Orioles,P,57000000,4,1.15,30,"Boston, MA",6,None,30,6
+2014,Neal Cotts,3000000,1,Brewers,P,3000000,1,1.15,38,"Lebanon, IL",11,Illinois State,35,8
+2012,Jack Hannahan,2000000,1,Reds,3B,4000000,2,1.15,38,"St. Paul, MN",8,Minnesota,33,3
+2016,Michael Saunders,9000000,1,Phillies,OF,9000000,1,1.133333333,31,"Victoria, BC",9,None,30,8
+2016,Gregor Blanco,1000000,2,Diamondbacks,OF,minor,1,1.133333333,34,"Caracas, Venezuela",9,None,33,8
+2015,Darren O'Day,7750000,1,Orioles,P,31000000,4,1.133333333,35,"Jacksonville, FL",10,Florida,33,8
+2014,Ryan Vogelsong,4000000,1,Giants,P,4000000,1,1.133333333,40,"Charlotte, NC",12,Kutztown,37,9
+2014,Chris Young,2500000,3,Yankees,OF,2500000,1,1.133333333,34,"Houston, TX",12,None,31,9
+2012,Rafael Soriano,14000000,2,Nationals,P,28000000,2,1.133333333,38,"San Jose, Dominican Republic",14,None,33,9
+2012,Scott Feldman,6000000,1,Cubs,P,6000000,1,1.133333333,35,"Kailua, HI",13,None,30,8
+2012,Juan Pierre,1600000,3,Marlins,OF,1600000,1,1.133333333,40,"Mobile, AL",14,South Alabama,35,9
+2011,Jonathan Broxton,4000000,1,Royals,P,4000000,1,1.133333333,33,"Augusta, GA",13,None,27,7
+2010,John Buck,6000000,1,Marlins,C,18000000,3,1.133333333,37,"Kemmerer, WY",11,None,30,4
+2010,Vladimir Guerrero,8000000,2,Orioles,OF,8000000,1,1.133333333,43,"Nizao Bani, Dominican Republic",16,None,36,9
+2010,Ramon Hernandez,3000000,2,Reds,C,3000000,1,1.133333333,41,"Caracas, Venezuela",16,None,34,9
+2010,Edwin Encarnacion,2500000,2,Blue Jays,DH,2500000,1,1.133333333,35,"La Romana, Dominican Republic",13,None,28,6
+2017,Welington Castillo,7500000,2,White Sox,C,15000000,2,1.116666667,30,"San Isidro, DR",8,None,30,8
+2015,Alejandro De Aza,5750000,2,Mets,OF,5750000,1,1.1,33,"Guaymate, DR",10,None,31,8
+2015,Norichika Aoki,5500000,4,Mariners,OF,5500000,1,1.1,36,"Hyuga City, Japan",6,None,34,4
+2014,Edinson Volquez,10000000,2,Royals,P,20000000,2,1.1,34,"Barahona, DR",13,None,31,10
+2014,Luke Hochevar,5000000,1,Royals,P,10000000,2,1.1,34,"Fowler, CO",9,Tennessee,31,6
+2014,Emilio Bonifacio,4000000,2,White Sox,OF,4000000,1,1.1,32,"Santo Domingo, DR",11,None,29,8
+2013,Fernando Rodney,7000000,2,Mariners,P,14000000,2,1.1,41,"Samana, Dominican Republic",15,None,37,11
+2013,Geovany Soto,3050000,2,Rangers,C,3050000,1,1.1,35,"San Juan, Puerto Rico",13,None,31,9
+2012,Jonny Gomes,5000000,1,Red Sox,OF,10000000,2,1.1,37,"Petaluma, CA",13,None,32,8
+2011,Rod Barajas,4000000,1,Pirates,C,4000000,1,1.1,42,"Ontario, CA",14,None,36,8
+2011,Jon Garland,8000000,1,Indians,P,minor,,1.1,38,"Valencia, CA",13,None,32,7
+2010,Takashi Saito,1750000,4,Brewers,P,1750000,1,1.1,48,"Miyagi, Japan",7,None,41,0
+2010,Craig Counsell,1400000,1,Brewers,2B,1400000,1,1.1,47,"South Bend, IN",16,Notre Dame,40,9
+2016,Welington Castillo,6000000,2,Orioles,C,6000000,1,1.083333333,30,"San Isidro, DR",8,None,29,7
+2017,Pat Neshek,8125000,1,Phillies,P,16250000,2,1.066666667,37,"Madison, WI",11,Butler,37,11
+2017,Chris Tillman,3000000,1,Orioles,P,3000000,1,1.066666667,29,"Anaheim, CA",9,None,29,9
+2017,Nick Hundley,2500000,1,Giants,C,2500000,1,1.066666667,34,"Corvallis, OR",10,Arizona,34,10
+2017,Chase Utley,1000000,1,Dodgers,2B,2000000,2,1.066666667,39,"Pasadena, CA",15,UCLA,39,15
+2016,Nick Hundley,2000000,1,Giants,C,2000000,1,1.066666667,34,"Corvallis, OR",10,Arizona,33,9
+2016,Austin Jackson,1500000,3,Indians,OF,minor,1,1.066666667,31,"Denton, TX",8,None,30,7
+2015,Drew Stubbs,507500,1,Rangers,OF,minor   ,1,1.066666667,33,"Texarkana, TX",9,Texas,31,7
+2014,Andrew Miller,9000000,1,Yankees,P,36000000,4,1.066666667,32,"Gainesville, FL",12,North Carolina,29,9
+2012,Roberto Hernandez,3250000,2,Rays,P,3250000,1,1.066666667,37,"Santo Domingo, Dominican Republic",11,None,32,6
+2011,Juan Rivera,4500000,2,Dodgers,OF,4500000,1,1.066666667,39,"Guarenas, Venezuela",12,None,33,6
+2010,Rod Barajas,3250000,2,Dodgers,C,3250000,1,1.066666667,42,"Ontario, CA",14,None,35,7
+2016,Joe Blanton,4000000,1,Nationals,P,4000000,1,1.05,37,"Bowling Green, KY",13,Kentucky,36,12
+2010,Jake Westbrook,8250000,1,Cardinals,P,16500000,2,1.05,40,"Athens, GA",13,None,33,6
+2010,J.P. Howell,1100000,1,Rays,P,1100000,1,1.05,34,"Modesto, CA",12,Texas,27,5
+2016,Koji Uehara,6000000,4,Cubs,P,6000000,1,1.033333333,42,"Neyagawa, Japan",9,None,41,8
+2014,Jonny Gomes,4000000,1,Braves,OF,4000000,1,1.033333333,37,"Petaluma, CA",13,None,34,10
+2014,Matt Belisle,3500000,1,Cardinals,P,3500000,1,1.033333333,37,"Austin, TX",14,None,34,11
+2013,Nate McLouth,5375000,1,Nationals,OF,10750000,2,1.033333333,36,"Muskegon, MI",10,None,32,6
+2013,Kurt Suzuki,2750000,4,Twins,C,2750000,1,1.033333333,34,"Wailuku, HI",11,Cal State Fullerton,30,7
+2013,Jamey Carroll,1250000,1,Nationals,3B,minor,1,1.033333333,44,"Evansville, IN",12,Evansville,40,8
+2011,Laynce Nix,1250000,1,Phillies,OF,2500000,2,1.033333333,37,"Houston, TX",11,None,31,5
+2011,Norichika Aoki,1125000,4,Brewers,OF,2250000,2,1.033333333,36,"Hyuga City, Japan",6,None,30,0
+2011,Yuniesky Betancourt,2000000,2,Royals,1B,2000000,1,1.033333333,36,"Santa Clara, Cuba",9,None,30,3
+2011,Zach Duke,1250000,1,Astros,P,minor,,1.033333333,34,"Clifton, TX",13,None,28,7
+2010,Arthur Rhodes,3900000,3,Rangers,P,3900000,1,1.033333333,48,"Waco, TX",20,None,41,13
+2010,Jorge Cantu,850000,2,Padres,3B,850000,1,1.033333333,36,"McAllen, TX",8,None,29,1
+2015,Pedro Alvarez,5750000,2,Orioles,1B,5750000,1,1.03,31,"Santo Domingo, DR",8,Vanderbilt,29,6
+2017,Yonder Alonso,8000000,2,Indians,1B,16000000,2,1,30,"Havana, Cuba",8,Miami,30,8
+2017,Yovani Gallardo,2000000,2,Brewers,P,2000000,1,1,32,"Michoacan, Mexico",11,None,32,11
+2016,Charlie Morton,7000000,1,Astros,P,14000000,2,1,34,"Flemington, NJ",10,None,33,9
+2015,Alex Avila,2500000,2,White Sox,C,2500000,1,1,31,"Hialeah, FL",9,Alabama,29,7
+2014,Jason Grilli,4000000,1,Braves,P,8000000,2,1,41,"Royal Oak, MI",15,Seton Hall,38,12
+2011,Endy Chavez,1500000,2,Orioles,OF,1500000,1,1,40,"Valencia, Venezuela",13,None,34,7
+2010,Scott Downs,5000000,1,Angels,P,15000000,3,1,42,"Louisville, KY",13,Kentucky,35,6
+2010,Brian Fuentes,5250000,2,Athletics,P,10500000,2,1,42,"Merced, CA",12,None,35,5
+2010,Yorvit Torrealba,3125000,2,Rangers,C,6250000,2,1,39,"Caracas, Venezuela",13,None,32,6
+2010,Jon Rauch,3500000,1,Blue Jays,P,3500000,1,1,39,"Louisville, KY",11,Morehead State,32,4
+2010,Brad Penny,3000000,1,Tigers,P,3000000,1,1,39,"Blackwell, OK",15,None,32,8
+2010,Freddy Garcia,1500000,2,Yankees,P,minor,1,0.96666667,41,"Caracas, Venezuela",15,None,34,8
+2016,Brett Cecil,7625000,1,Cardinals,P,30500000,4,0.966666667,31,"Annapolis, MD",9,Maryland,30,8
+2016,Ben Revere,4000000,3,Angels,OF,4000000,1,0.966666667,29,"Atlanta, GA",8,None,28,7
+2015,Brett Anderson,15800000,1,Dodgers,P,15800000,1,0.966666667,30,"Midland, TX",9,None,28,7
+2012,Tom Gorzelanny,2850000,1,Brewers,P,5700000,2,0.966666667,35,"Evergreen Park, IL",12,None,30,7
+2012,Kelly Shoppach,1500000,1,Mariners,C,1500000,1,0.966666667,37,"Fort Worth, TX",9,Baylor,32,4
+2012,Eric Hinske,1350000,1,Diamondbacks,1B,1350000,1,0.966666667,40,"Menasha, WI",12,Arkansas,35,7
+2010,Chad Qualls,1500000,1,Padres,P,1500000,1,0.966666667,39,"Lomita, CA",14,Nevada,32,7
+2017,Danny Valencia,1200000,1,Orioles,3B,minor,1,0.933333333,33,"Miami, FL",8,Miami,33,8
+2015,A.J. Pierzynski,3000000,1,Braves,C,3000000,1,0.933333333,41,"Bridgehampton, NY",19,None,39,17
+2014,Carlos Villanueva,2000000,2,Cardinals,P,minor,,0.933333333,34,"Santiago, Dominican Republic",11,None,31,8
+2013,Matt Thornton,3500000,1,Yankees,P,7000000,2,0.933333333,41,"Centreville, MI",13,Grand Valley State,37,9
+2012,Joel Peralta,3000000,2,Rays,P,6000000,2,0.933333333,42,"Bonao, Dominican Republic",12,None,37,7
+2010,Bobby Jenks,6000000,1,Red Sox,P,12000000,2,0.933333333,37,"Mission Hills, CA",7,None,30,0
+2017,Doug Fister,4000000,1,Rangers,P,4000000,1,0.9,34,"Merced, CA",9,Fresno State,34,9
+2016,Scott Feldman,2300000,1,Reds,P,2300000,1,0.9,35,"Kailua, HI",13,None,34,12
+2015,Ryan Madson,7333333.33,1,Athletics,P,22000000,3,0.9,37,"Long Beach, CA",12,None,35,10
+2014,Luke Gregerson,6166666.67,1,Astros,P,18500000,3,0.9,33,"Park Ridge, IL",9,St. Xavier (IL),30,6
+2014,Gavin Floyd,4000000,1,Indians,P,4000000,1,0.9,35,"Annapolis, MD",13,None,32,10
+2013,Bronson Arroyo,11750000,1,Diamondbacks,P,23500000,2,0.9,41,"Key West, FL",17,None,37,13
+2013,Eric Chavez,3500000,2,Diamondbacks,3B,3500000,1,0.9,40,"Los Angeles, CA",17,None,36,13
+2013,Rafael Furcal,3500000,2,Marlins,2B,3500000,1,0.9,40,"Loma de Cabrera, Dominican Republic",14,None,36,10
+2013,Philip Humber,1250000,1,Athletics,P,minor,1,0.9,35,"Nacogdoches, TX",9,Rice,31,5
+2013,Carlos Pena,1000000,2,Angels,1B,minor,1,0.9,39,"Santo Domingo, Dominican Republic",14,Northeastern,35,10
+2011,Vicente Padilla,1500000,2,Red Sox,P,minor,,0.9,40,"Chinandega, Nicaragua",14,None,34,8
+2017,Jesse Chavez,1500000,2,Rangers,P,1500000,1,0.866666667,34,"San Gabriel, CA",10,Riverside CC,34,10
+2015,Stephen Drew,3000000,1,Nationals,SS,3000000,1,0.866666667,35,"Valdosta, GA",12,Florida State,33,10
+2015,Yusmeiro Petit,3000000,2,Nationals,P,3000000,1,0.866666667,33,"Maracaibo, Venezuela",10,None,31,8
+2014,Billy Butler,10000000,1,Athletics,DH,30000000,3,0.866666667,31,"Orange Park, FL",10,None,28,7
+2014,Adam LaRoche,12500000,1,White Sox,DH,25000000,2,0.866666667,38,"Orange, CA",13,None,35,10
+2014,Brandon Morrow,2500000,1,Padres,P,2500000,1,0.866666667,33,"Santa Rosa, CA",11,California,30,8
+2013,Joaquin Benoit,7750000,2,Padres,P,15500000,2,0.866666667,40,"Santiago, Dominican Republic",16,None,36,12
+2013,Grant Balfour,6000000,1,Rays,P,12000000,2,0.866666667,40,"Sydney, Australia",12,None,36,8
+2013,Freddy Garcia,1250000,2,Braves,P,minor,1,0.866666667,41,"Caracas, Venezuela",15,None,37,11
+2012,Jeff Karstens,2500000,1,Pirates,P,2500000,1,0.866666667,35,"San Diego, CA",7,Texas Tech,30,2
+2011,Frank Francisco,6000000,2,Mets,P,12000000,2,0.866666667,38,"Santo Domingo, Dominican Republic",10,None,32,4
+2011,Bruce Chen,4500000,2,Royals,P,9000000,2,0.866666667,40,"Panama City, Panama",17,None,34,11
+2011,Joe Saunders,6000000,1,Diamondbacks,P,6000000,1,0.866666667,36,"Springfield, VA",10,Virginia Tech,30,4
+2017,Juan Nicasio,8500000,2,Mariners,P,17000000,2,0.85,31,"San Francisco de Macoris, DR",7,None,31,7
+2011,Joe Nathan,7250000,1,Rangers,P,14500000,2,0.85,43,"Houston, TX",16,Stony Brook,37,10
+2017,Hector Rondon,4250000,2,Astros,P,8500000,2,0.833333333,30,"Guatire, Venezuela",5,None,30,5
+2017,Alcides Escobar,2500000,2,Royals,SS,2500000,1,0.833333333,31,"La Sabana, Venezuela",10,None,31,10
+2016,Travis Wood,6000000,1,Royals,P,12000000,2,0.833333333,31,"Little Rock, AR",8,None,30,7
+2016,Jarrod Saltalamacchia,1250000,1,Blue Jays,C,minor,1,0.833333333,32,"West Palm Beach, FL",11,None,31,10
+2015,Geovany Soto,2800000,2,Angels,C,2800000,1,0.833333333,35,"San Juan, Puerto Rico",13,None,33,11
+2014,David Ross,2500000,1,Cubs,C,5000000,2,0.833333333,41,"Bainbridge, GA",15,Florida,38,12
+2014,Norichika Aoki,4700000,4,Giants,OF,4700000,1,0.833333333,36,"Hyuga City, Japan",6,None,33,3
+2014,Nick Punto,2750000,1,Diamondbacks,2B,minor,,0.833333333,40,"San Diego, CA",14,Saddleback ,37,11
+2012,John Lannan,2500000,1,Phillies,P,2500000,1,0.833333333,33,"Long Beach, NY",9,Siena,28,4
+2012,Mike Gonzalez,2225000,2,Brewers,P,2225000,1,0.833333333,39,"Robstown, TX",11,None,34,6
+2012,Nate Schierholtz,2225000,1,Cubs,OF,2225000,1,0.833333333,34,"Reno, NV",9,None,29,4
+2011,Henry Blanco,1250000,2,Diamondbacks,C,1250000,1,0.833333333,46,"Caracas, Venezuela",17,None,40,11
+2010,Rick Ankiel,1500000,1,Nationals,OF,1500000,1,0.833333333,38,"Fort Pierce, FL",11,None,31,4
+2010,Kerry Wood,1500000,1,Cubs,P,1500000,1,0.833333333,40,"Irving, TX",14,None,33,7
+2010,Gerald Laird,1000000,1,Cardinals,C,1000000,1,0.833333333,38,"Garden Grove, CA",13,None,31,6
+2016,Mat Latos,1500000,1,Blue Jays,P,minor,1,0.816666667,30,"Alexandria, VA",9,None,29,8
+2017,Joe Smith,7500000,1,Astros,P,15000000,2,0.8,34,"Cincinnati, OH",11,Wright State,34,11
+2017,Luke Gregerson,5500000,1,Cardinals,P,11000000,2,0.8,33,"Park Ridge, IL",9,St. Xavier (IL),33,9
+2017,Matt Adams,4000000,1,Nationals,1B,4000000,1,0.8,29,"Philipsburg, PA",6,Slippery Rock,29,6
+2017,Anibal Sanchez,2500000,2,Twins,P,2500000,1,0.8,34,"Maracay, Venezuela",12,None,34,12
+2016,Ivan Nova,8666666.67,2,Pirates,P,26000000,3,0.8,31,"Palenque, DR",8,None,30,7
+2015,Carlos Villanueva,1500000,2,Padres,P,1500000,1,0.8,34,"Santiago, DR",11,None,32,9
+2015,Ryan Raburn,1500000,1,Rockies,OF,minor   ,1,0.8,36,"Tampa, FL",12,None,34,10
+2014,Alberto Callaspo,3000000,2,Braves,3B,3000000,1,0.8,34,"Maracay, Venezuela",10,None,31,7
+2013,Garrett Jones,3875000,1,Marlins,OF,7750000,2,0.8,36,"Harvey, IL",8,None,32,4
+2011,Kelly Shoppach,1350000,1,Red Sox,C,1350000,1,0.8,37,"Fort Worth, TX",9,Baylor,31,3
+2011,Hong-Chih Kuo,500000,4,Mariners,P,500000,1,0.8,36,"Tainan City, Taiwan",7,None,30,1
+2010,Jason Giambi,1000000,1,Rockies,DH,minor,1,0.76666667,47,"West Covina, CA",20,Long Beach State,40,13
+2017,Jake McGee,9000000,1,Rockies,P,27000000,3,0.766666667,31,"San Jose, CA",8,None,31,8
+2017,Jason Vargas,8000000,1,Mets,P,16000000,2,0.766666667,35,"Apple Valley, CA",12,Long Beach State,35,12
+2017,Sergio Romo,2500000,2,Rays,P,2500000,1,0.766666667,35,"Brawley, CA",10,Colorado Mesa,35,10
+2017,Leonys Martin,1750000,2,Tigers,OF,1750000,1,0.766666667,30,"Villa Clara, Cuba",7,None,30,7
+2016,Brett Anderson,3500000,1,Cubs,P,3500000,1,0.766666667,30,"Midland, TX",9,None,29,8
+2016,Jeff Locke,3025000,1,Marlins,P,3025000,1,0.766666667,30,"North Conway, NH",7,None,29,6
+2016,Drew Storen,3000000,1,Reds,P,3000000,1,0.766666667,30,"Indianapolis, IN",8,Stanford,29,7
+2016,Jered Weaver,3000000,1,Padres,P,3000000,1,0.766666667,35,"Northridge, CA",12,Long Beach State,34,11
+2016,Kurt Suzuki,1500000,4,Braves,C,1500000,1,0.766666667,34,"Wailuku, HI",11,Cal State Fullerton,33,10
+2016,Vance Worley,1000000,1,Nationals,P,minor,1,0.766666667,30,"Sacramento, CA",8,Long Beach State,29,7
+2014,Casey Janssen,5000000,1,Nationals,P,5000000,1,0.766666667,36,"Orange, CA",10,UCLA,33,7
+2013,Dioner Navarro,4000000,2,Blue Jays,C,8000000,2,0.766666667,34,"Caracas, Venezuela",13,None,30,9
+2012,Jose Valverde,1250000,2,Tigers,P,minor,1,0.766666667,40,"San Pedro de Macoris, Dominican Republic",12,None,35,7
+2011,Jason Kubel,7500000,1,Diamondbacks,OF,15000000,2,0.766666667,35,"Belle Fourche, SD",10,None,29,4
+2010,Xavier Nady,1750000,1,Diamondbacks,OF,1750000,1,0.766666667,39,"Salinas, CA",12,California,32,5
+2012,Jason Grilli,3375000,1,Pirates,P,6750000,2,0.75,41,"Royal Oak, MI",15,Seton Hall,36,10
+2017,Bryan Shaw,9000000,1,Rockies,P,27000000,3,0.733333333,30,"Livermore, CA",7,Long Beach State,30,7
+2017,Brandon Morrow,10500000,1,Cubs,P,21000000,2,0.733333333,33,"Santa Rosa, CA",11,California,33,11
+2015,Shawn Kelley,5000000,1,Nationals,P,15000000,3,0.733333333,33,"Louisville, KY",9,Austin Peay,31,7
+2015,Matt Joyce,1000000,1,Pirates,OF,minor   ,1,0.733333333,33,"Tampa, FL",10,FLA SOUTHERN,31,8
+2014,Sergio Romo,7500000,2,Giants,P,15000000,2,0.733333333,35,"Brawley, CA",10,Colorado Mesa,32,7
+2014,Brett Anderson,10000000,1,Dodgers,P,10000000,1,0.733333333,30,"Midland, TX",9,None,27,6
+2014,Stephen Drew,5000000,1,Yankees,SS,5000000,1,0.733333333,35,"Valdosta, GA",12,Florida State,32,9
+2012,James Loney,2000000,3,Rays,1B,2000000,1,0.733333333,33,"Houston, TX",11,None,28,6
+2010,Jason Frasor,3500000,1,Blue Jays,P,3500000,1,0.733333333,40,"Chicago, IL",12,S Illinois,33,5
+2010,Edgar Renteria,2100000,2,Reds,SS,2100000,1,0.733333333,42,"Barranquilla, Colombia",16,None,35,9
+2010,Miguel Cairo,1000000,2,Reds,1B,2000000,2,0.733333333,43,"Anaco, Venezuela",17,None,36,10
+2017,Chris Young,2000000,3,Angels,OF,2000000,1,0.7,34,"Houston, TX",12,None,34,12
+2017,Jorge De La Rosa,2250000,2,Diamondbacks,P,minor,1,0.7,36,"Monterrey, Mexico",14,None,36,14
+2016,Mark Trumbo,12500000,1,Orioles,DH,37500000,3,0.7,32,"Anaheim, CA",8,None,31,7
+2016,Junichi Tazawa,6000000,4,Marlins,P,12000000,2,0.7,31,"Yokohama, Japan",8,None,30,7
+2016,Joaquin Benoit,7500000,2,Phillies,P,7500000,1,0.7,40,"Santiago, DR",16,None,39,15
+2016,Derek Holland,6000000,1,White Sox,P,6000000,1,0.7,31,"Newark, OH",9,Wallace State CC,30,8
+2015,Chris Young,6500000,3,Red Sox,OF,13000000,2,0.7,34,"Houston, TX",12,None,32,10
+2015,Tyler Clippard,6125000,1,Diamondbacks,P,12250000,2,0.7,33,"Lexington, KY",11,None,31,9
+2014,Paul Maholm,1250000,1,Reds,P,minor,,0.7,35,"Greenwood, MS",10,Mississippi State,32,7
+2013,Joe Smith,5250000,1,Angels,P,15750000,3,0.7,34,"Cincinnati, OH",11,Wright State,30,7
+2013,Quintin Berry,1000000,3,Orioles,OF,minor,1,0.7,33,"San Diego, CA",6,San Diego State,29,2
+2012,Hisashi Iwakuma,7000000,4,Mariners,P,14000000,2,0.7,36,"Tokyo, Japan",6,None,31,1
+2011,Francisco Cordero,4500000,2,Blue Jays,P,4500000,1,0.7,42,"Santo Domingo, Dominican Republic",14,None,36,8
+2011,Scott Hairston,1100000,3,Mets,OF,1100000,1,0.7,37,"Fort Worth, TX",11,None,31,5
+2011,Jonny Gomes,1000000,2,Athletics,OF,1000000,1,0.7,37,"Petaluma, CA",13,None,31,7
+2010,Joaquin Benoit,5500000,2,Tigers,P,16500000,3,0.7,40,"Santiago, Dominican Republic",16,None,33,9
+2010,J.J. Putz,5000000,1,Diamondbacks,P,10000000,2,0.7,41,"Trenton, MI",12,Michigan,34,5
+2010,Ronny Paulino,1300000,2,Mets,C,1300000,1,0.7,36,"Santo Domingo, Dominican Republic",8,None,29,1
+2017,Tommy Hunter,9000000,1,Phillies,P,18000000,2,0.666666667,31,"Indianapolis, IN",10,Alabama,31,10
+2017,Anthony Swarzak,7000000,1,Mets,P,14000000,2,0.666666667,32,"Fort Lauderdale, FL",8,None,32,8
+2016,Brad Ziegler,8000000,1,Marlins,P,16000000,2,0.666666667,38,"Pratt, KS",10,Missouri State,37,9
+2016,Mitch Moreland,5500000,1,Red Sox,1B,5500000,1,0.666666667,32,"Amory, MS",8,Mississippi State,31,7
+2016,Jhoulys Chacin,1750000,2,Padres,P,1750000,1,0.666666667,30,"Maracaibo, Venezuela",9,None,29,8
+2015,Joakim Soria,8333333.33,2,Royals,P,25000000,3,0.666666667,33,"Monclova, Mexico",10,None,31,8
+2015,Antonio Bastardo,6000000,2,Mets,P,12000000,2,0.666666667,32,"Hato Mayor, DR",9,None,30,7
+2015,Chris Capuano,1500000,1,Brewers,P,minor   ,1,0.666666667,39,"Springfield, MA",12,Duke,37,10
+2013,Eric O'Flaherty,3500000,1,Athletics,P,7000000,2,0.666666667,33,"Walla Walla, WA",12,None,29,8
+2013,Edinson Volquez,5000000,2,Pirates,P,5000000,1,0.666666667,34,"Barahona, Dominican Republic",13,None,30,9
+2013,Alexi Casilla,1250000,2,Orioles,2B,minor,1,0.666666667,33,"San Cristobal, Dominican Republic",10,None,29,6
+2013,John Lannan,1500000,1,Mets,P,minor,1,0.666666667,33,"Long Beach, NY",9,Siena,29,5
+2012,Jair Jurrjens,1500000,2,Orioles,P,1500000,1,0.666666667,32,"Willemstad, Netherlands Antilles",8,None,27,3
+2011,Grady Sizemore,5000000,1,Indians,OF,5000000,1,0.666666667,35,"Seattle, WA",10,None,29,4
+2011,Ryan Theriot,1250000,1,Giants,2B,1250000,1,0.666666667,38,"Baton Rouge, LA",8,LSU,32,2
+2011,Jack Wilson,1000000,1,Braves,SS,1000000,1,0.666666667,40,"Westlake Village, CA",12,None,34,6
+2011,Rick Ankiel,750000,1,Nationals,OF,minor,,0.666666667,38,"Fort Pierce, FL",11,None,32,5
+2011,Ronny Paulino,1000000,2,Orioles,C,minor,,0.666666667,36,"Santo Domingo, Dominican Republic",8,None,30,2
+2010,D.J. Carrasco,1250000,1,Mets,P,2500000,2,0.666666667,40,"Safford, AZ",8,None,33,1
+2010,Henry Blanco,1250000,2,Diamondbacks,C,1250000,1,0.666666667,46,"Caracas, Venezuela",17,None,39,10
+2010,Dave Bush,1000000,1,Rangers,P,minor,1,0.666666667,38,"Pittsburgh, PA",9,Wake Forest,31,2
+2016,Alejandro De Aza,1750000,2,Athletics,OF,minor,1,0.65,33,"Guaymate, Dominican Republic",10,None,32,9
+2014,Chris Young,675000,1,Royals,P,675000,1,0.65,38,"Dallas, TX",13,Princeton,35,10
+2017,Yusmeiro Petit,5000000,2,Athletics,P,10000000,2,0.633333333,33,"Maracaibo, Venezuela",10,None,33,10
+2016,Sergio Romo,3000000,2,Dodgers,P,3000000,1,0.633333333,35,"Brawley, CA",10,Colorado Mesa,34,9
+2015,Cliff Pennington,1875000,1,Angels,2B,3750000,2,0.633333333,33,"Corpus Christi, TX",10,Texas A&M;,31,8
+2015,Neal Cotts,1250000,1,Astros,P,minor   ,1,0.633333333,38,"Lebanon, IL",11,Illinois State,36,9
+2014,Clint Barmes,1500000,1,Padres,SS,1500000,1,0.633333333,39,"Vincennes, IN",14,Indiana State,36,11
+2013,Javier Lopez,4333333.333,2,Giants,P,13000000,3,0.633333333,40,"San Juan, Puerto Rico",14,Virginia,36,10
+2012,Jonathan Broxton,7000000,1,Reds,P,21000000,3,0.633333333,33,"Augusta, GA",13,None,28,8
+2012,Reed Johnson,1750000,1,Braves,OF,1750000,1,0.633333333,41,"Riverside, CA",14,Cal State Fullerton,36,9
+2011,Nate McLouth,1750000,1,Pirates,OF,1750000,1,0.633333333,36,"Muskegon, MI",10,None,30,4
+2011,Takashi Saito,1750000,4,Diamondbacks,P,1750000,1,0.633333333,48,"Miyagi, Japan",7,None,42,1
+2017,Tony Barnette,1500000,1,Rangers,P,1500000,1,0.6,34,"Anchorage, AK",2,Arizona State,34,2
+2016,Geovany Soto,2000000,2,White Sox,C,minor,1,0.6,35,"San Juan, Puerto Rico",13,None,34,12
+2016,Jordan Walden,250000,1,Braves,P,minor,1,0.6,30,"Fort Worth, TX",7,GRAYSON COUNTY,29,6
+2015,Oliver Perez,3500000,2,Nationals,P,7000000,2,0.6,36,"Culiacan, Mexico",15,None,34,13
+2015,Fernando Rodney,2000000,2,Padres,P,2000000,1,0.6,41,"Samana, DR",15,None,39,13
+2015,Kyle Kendrick,1250000,1,Braves,P,minor   ,1,0.6,33,"Houston, TX",11,None,31,9
+2014,Alexi Ogando,1500000,2,Red Sox,P,1500000,1,0.6,34,"San Pedro de Macoris, DR",7,None,31,4
+2013,John Axford,4500000,1,Indians,P,4500000,1,0.6,34,"Simcoe, ON",9,Canisius,30,5
+2013,Reed Johnson,1000000,1,Marlins,OF,minor,1,0.6,41,"Riverside, CA",14,Cal State Fullerton,37,10
+2012,Daisuke Matsuzaka,1250000,4,Indians,P,minor,1,0.6,37,"Tokyo, Japan",8,None,32,3
+2011,Clay Hensley,750000,1,Giants,P,750000,1,0.6,38,"Tomball, TX",7,Lamar,32,1
+2010,Chris Capuano,1500000,1,Mets,P,1500000,1,0.6,39,"Springfield, MA",12,Duke,32,5
+2017,Steve Cishek,6500000,1,Cubs,P,13000000,2,0.566666667,31,"Falmouth, MA",8,Carson-Newman,31,8
+2016,Jerry Blevins,6500000,1,Mets,P,6500000,1,0.566666667,34,"Johnson City, TN",11,Dayton,33,10
+2016,Chris Heisey,1400000,1,Nationals,OF,1400000,1,0.566666667,33,"Mount Joy, PA",8,Messiah,32,7
+2016,Mark Reynolds,1500000,1,Rockies,1B,minor,1,0.566666667,34,"Pikeville, KY",11,Virginia,33,10
+2015,Trevor Cahill,4250000,1,Cubs,P,4250000,1,0.566666667,30,"Oceanside, CA",9,None,28,7
+2015,Mark Reynolds,2600000,1,Rockies,1B,2600000,1,0.566666667,34,"Pikeville, KY",11,Virginia,32,9
+2015,Tommy Hunter,2000000,1,Indians,P,2000000,1,0.566666667,31,"Indianapolis, IN",10,Alabama,29,8
+2014,Pat Neshek,6250000,1,Astros,P,12500000,2,0.566666667,37,"Madison, WI",11,Butler,34,8
+2014,Nick Hundley,3125000,1,Rockies,C,6250000,2,0.566666667,34,"Corvallis, OR",10,Arizona,31,7
+2014,Mark Reynolds,2000000,1,Cardinals,1B,2000000,1,0.566666667,34,"Pikeville, KY",11,Virginia,31,8
+2014,Joe Saunders,1250000,1,Mariners,P,minor,,0.566666667,36,"Springfield, VA",10,Virginia Tech,33,7
+2013,Sam Fuld,800000,1,Athletics,OF,minor,1,0.566666667,36,"Durham, NH",9,Stanford,32,5
+2012,Mark Reynolds,6000000,1,Indians,1B,6000000,1,0.566666667,34,"Pikeville, KY",11,Virginia,29,6
+2011,Jeff Keppinger,1525000,1,Rays,2B,1525000,1,0.566666667,37,"Miami, FL",9,Georgia,31,3
+2010,Matt Diaz,2125000,1,Pirates,OF,4250000,2,0.566666667,40,"Portland, OR",11,Florida State,33,4
+2010,Austin Kearns,1300000,1,Indians,OF,1300000,1,0.566666667,37,"Lexington, KY",12,None,30,5
+2013,Manny Parra,2750000,2,Reds,P,5500000,2,0.55,35,"Carmichael, CA",9,None,31,5
+2010,Bruce Chen,2000000,2,Royals,P,2000000,1,0.55,40,"Panama City, Panama",17,None,33,10
+2016,Joe Smith,3000000,1,Blue Jays,P,3000000,1,0.533333333,34,"Cincinnati, OH",11,Wright State,33,10
+2016,Peter Bourjos,1000000,1,White Sox,OF,minor,1,0.533333333,30,"Park Ridge, IL",8,None,29,7
+2016,Ryan Vogelsong,1250000,1,Twins,P,minor,1,0.533333333,40,"Charlotte, NC",12,Kutztown,39,11
+2015,Tony Sipp,6000000,3,Astros,P,18000000,3,0.533333333,34,"Pascagoula, MS",9,Clemson,32,7
+2015,Darwin Barney,1050000,1,Blue Jays,2B,1050000,1,0.533333333,32,"Portland, OR",8,Oregon State,30,6
+2015,Matt Belisle,2050000,1,Nationals,P,minor   ,1,0.533333333,37,"Austin, TX",14,None,35,12
+2014,Zach Duke,5000000,1,White Sox,P,15000000,3,0.533333333,34,"Clifton, TX",13,None,31,10
+2014,Jared Burton,200000,1,Yankees,P,minor,,0.533333333,36,"Westminster, SC",8,Western Carolina,33,5
+2013,LaTroy Hawkins,2500000,3,Rockies,P,2500000,1,0.533333333,45,"Gary, IN",21,None,41,17
+2012,Sean Burnett,4000000,1,Angels,P,8000000,2,0.533333333,35,"Dunedin, FL",9,None,30,4
+2011,Reed Johnson,1150000,1,Cubs,OF,1150000,1,0.533333333,41,"Riverside, CA",14,Cal State Fullerton,35,8
+2010,Jason Varitek,2000000,1,Red Sox,C,2000000,1,0.533333333,45,"Rochester, MI",15,Georgia Tech,38,8
+2010,Mark Hendrickson,1200000,1,Orioles,P,minor,1,0.53333333,43,"Mount Vernon, WA",10,Washington State,36,3
+2017,Tony Watson,3000000,1,Giants,P,9000000,3,0.5,32,"Sioux City, IA",7,Nebraska,32,7
+2017,A.J. Ellis,1250000,1,Padres,C,minor,1,0.5,36,"Cape Girardeau, MO",10,Austin Peay,36,10
+2017,Miguel Montero,1300000,2,Nationals,C,minor,1,0.5,34,"Caracas, Venezuela",12,None,34,12
+2016,Daniel Hudson,5500000,1,Pirates,P,11000000,2,0.5,31,"Lynchburg, VA",8,Old Dominion,30,7
+2016,Matt Joyce,5500000,1,Athletics,OF,11000000,2,0.5,33,"Tampa, FL",10,FLA SOUTHERN,32,9
+2016,Sean Rodriguez,5500000,2,Braves,1B,11000000,2,0.5,32,"Miami, FL",10,None,31,9
+2016,Tommy Hunter,1400000,1,Rays,P,minor,1,0.5,31,"Indianapolis, IN",10,Alabama,30,9
+2016,Yusmeiro Petit,500000,2,Angels,P,minor,1,0.5,33,"Maracaibo, Venezuela",10,None,32,9
+2015,Chris Young,5750000,1,Royals,P,11500000,2,0.5,38,"Dallas, TX",13,Princeton,36,11
+2015,Burke Badenhop,1500000,1,Nationals,P,minor   ,1,0.5,35,"Atlanta, GA",9,Bowling Green,33,7
+2014,Burke Badenhop,1000000,1,Reds,P,1000000,1,0.5,35,"Atlanta, GA",9,Bowling Green,32,6
+2014,Nate Schierholtz,1750000,1,Rangers,OF,minor,,0.5,34,"Reno, NV",9,None,31,6
+2014,Geovany Soto,1500000,2,White Sox,C,minor,,0.5,35,"San Juan, Puerto Rico",13,None,32,10
+2013,Ronald Belisario,3000000,2,White Sox,P,3000000,1,0.5,35,"Maracay, Venezuela",6,None,31,2
+2014,Jim Johnson,1600000,1,Braves,P,1600000,1,0.467,34,"Johnson City, NY",12,None,31,9
+2017,Boone Logan,2500000,2,Brewers,P,2500000,1,0.466666667,33,"San Antonio, TX",12,None,33,12
+2016,Fernando Salas,3000000,2,Mets,P,3000000,1,0.466666667,32,"Huatabampo, Mexico",8,None,31,7
+2016,Logan Morrison,2500000,1,Rays,1B,2500000,1,0.466666667,30,"Kansas City, MO",8,Maple Woods CC,29,7
+2016,Matt den Dekker,535000,1,Marlins,OF,minor,1,0.466666667,30,"Fort Lauderdale, FL",5,Florida,29,4
+2015,Munenori Kawasaki,507500,4,Cubs,SS,minor   ,1,0.466666667,36,"Kagoshima, Japan",5,None,34,3
+2015,Don Kelly,507500,1,Marlins,1B,minor   ,1,0.466666667,38,"Butler, PA",9,None,36,7
+2014,Kelly Johnson,1500000,1,Braves,2B,minor,,0.466666667,36,"Austin, TX",11,None,33,8
+2014,Jamey Wright,1000000,1,Rangers,P,minor,,0.466666667,43,"Oklahoma City, OK",20,None,40,17
+2013,Boone Logan,5500000,1,Rockies,P,16500000,3,0.466666667,33,"San Antonio, TX",12,None,29,8
+2013,Scott Downs,3750000,1,White Sox,P,3750000,1,0.466666667,42,"Louisville, KY",13,Kentucky,38,9
+2013,J.P. Arencibia,1800000,1,Rangers,C,1800000,1,0.466666667,32,"Miami, FL",7,Tennessee,28,3
+2013,Humberto Quintero,1250000,2,Mariners,C,minor,1,0.466666667,38,"Maracaibo, Venezuela",13,None,34,9
+2011,Jon Rauch,3500000,1,Mets,P,3500000,1,0.466666667,39,"Louisville, KY",11,Morehead State,33,5
+2011,Todd Coffey,1300000,1,Dodgers,P,1300000,1,0.466666667,37,"Forest City, NC",8,None,31,2
+2010,Jesse Crain,4333333.333,1,White Sox,P,13000000,3,0.466666667,36,"Toronto, Canada",10,Houston,29,3
+2010,Geoff Blum,1350000,1,Diamondbacks,3B,2700000,2,0.466666667,44,"Redwood City, CA",14,California,37,7
+2010,Alfredo Aceves,650000,2,Red Sox,P,650000,1,0.466666667,35,"San Luis Rio Colorado, Mexico",7,None,28,0
+2016,Clayton Richard,1750000,1,Padres,P,1750000,1,0.45,34,"Lafayette, IN",9,Michigan,33,8
+2017,Brandon Kintzler,5000000,1,Nationals,P,10000000,2,0.433333333,33,"Las Vegas, NV",8,DIXIE ST,33,8
+2017,Bud Norris,3000000,1,Cardinals,P,3000000,1,0.433333333,33,"Greenbrae, CA",9,Cal Poly,33,9
+2016,Mike Dunn,6333333.33,1,Rockies,P,19000000,3,0.433333333,32,"Farmington, NM",9,None,31,8
+2016,Marc Rzepczynski,5500000,1,Mariners,P,11000000,2,0.433333333,32,"Oak Lawn, IL",9,UC Riverside,31,8
+2015,Rich Hill,6000000,1,Athletics,P,6000000,1,0.433333333,38,"Boston, MA",13,Michigan,36,11
+2015,Chad Qualls,3000000,1,Rockies,P,6000000,2,0.433333333,39,"Lomita, CA",14,Nevada,37,12
+2015,Jerry Blevins,4000000,1,Mets,P,4000000,1,0.433333333,34,"Johnson City, TN",11,Dayton,32,9
+2015,Kelly Johnson,2000000,1,Braves,2B,2000000,1,0.433333333,36,"Austin, TX",11,None,34,9
+2015,Bobby Parnell,507500,1,Tigers,P,minor   ,1,0.433333333,33,"Salisbury, NC",9,Charleston Southern,31,7
+2014,Jason Frasor,1800000,1,Royals,P,1800000,1,0.433333333,40,"Chicago, IL",12,S Illinois,37,9
+2014,Gerald Laird,1000000,1,Diamondbacks,C,minor,,0.433333333,38,"Garden Grove, CA",13,None,35,10
+2014,Matt Lindstrom,1000000,1,Angels,P,minor,,0.433333333,38,"Rexburg, ID",8,None,35,5
+2013,Franklin Gutierrez,1000000,2,Mariners,OF,1000000,1,0.433333333,35,"Caracas, Venezuela",12,None,31,8
+2012,Jason Frasor,1500000,1,Rangers,P,1500000,1,0.433333333,40,"Chicago, IL",12,S Illinois,35,7
+2011,Casey Kotchman,3000000,1,Indians,1B,3000000,1,0.433333333,35,"St. Petersburg, FL",11,None,29,5
+2011,George Sherrill,1100000,1,Mariners,P,1100000,1,0.433333333,40,"Memphis, TN",9,Austin Peay,34,3
+2011,Gerald Laird,1000000,1,Tigers,C,1000000,1,0.433333333,38,"Garden Grove, CA",13,None,32,7
+2011,Brooks Conrad,480000,1,Brewers,2B,minor,,0.433333333,38,"Spring Valley, CA",6,Arizona State,32,0
+2011,Peter Moylan,1250000,1,Braves,P,minor,,0.433333333,39,"Lesmurdie, Australia",11,None,33,5
+2010,George Sherrill,1200000,1,Braves,P,1200000,1,0.433333333,40,"Memphis, TN",9,Austin Peay,33,2
+2011,Octavio Dotel,3500000,2,Tigers,P,3500000,1,0.425,44,"Santo Domingo, Dominican Republic",15,None,38,9
+2017,Wily Peralta,1525000,2,Royals,P,1525000,1,0.4,28,"Samana, DR",6,None,28,6
+2017,Mike Napoli,1750000,1,Indians,1B,minor,1,0.4,36,"Hollywood, FL",12,None,36,12
+2017,Fernando Salas,1500000,2,Diamondbacks,P,minor,1,0.4,32,"Huatabampo, Mexico",8,None,32,8
+2016,Ryan Hanigan,800000,1,Phillies,C,minor,1,0.4,37,"Washington, DC",11,Rollins,36,10
+2015,Casey Janssen,1500000,1,Padres,P,minor   ,1,0.4,36,"Orange, CA",10,UCLA,34,8
+2015,Matt Thornton,1600000,1,Padres,P,minor   ,1,0.4,41,"Centreville, MI",13,Grand Valley State,39,11
+2014,Humberto Quintero,800000,2,Red Sox,C,minor,,0.4,38,"Maracaibo, Venezuela",13,None,35,10
+2013,Michael Morse,6000000,1,Giants,1B,6000000,1,0.4,36,"Fort Lauderdale, FL",13,None,32,9
+2013,Ryan Webb,2250000,1,Orioles,P,4500000,2,0.4,32,"Clearwater, FL",8,None,28,4
+2013,Jerome Williams,2100000,3,Astros,P,2100000,1,0.4,36,"Honolulu, HI",11,None,32,7
+2013,Scott Atchison,800000,1,Indians,P,minor,1,0.4,42,"Denton, TX",9,TCU,38,5
+2013,Chad Gaudin,750000,1,Phillies,P,minor,1,0.4,35,"New Orleans, LA",11,None,31,7
+2013,Nick Masset,1250000,1,Rockies,P,minor,1,0.4,35,"St. Petersburg, FL",9,None,31,5
+2013,Corky Miller,1250000,1,Reds,C,minor,1,0.4,42,"Yucaipa, CA",11,Nevada,38,7
+2012,Eric Chavez,3000000,1,Diamondbacks,3B,3000000,1,0.4,40,"Los Angeles, CA",17,None,35,12
+2011,LaTroy Hawkins,3000000,3,Angels,P,3000000,1,0.4,45,"Gary, IN",21,None,39,15
+2011,Joel Zumaya,850000,2,Twins,P,850000,1,0.4,33,"Chula Vista, CA",5,None,27,1
+2010,Kevin Gregg,5000000,1,Orioles,P,10000000,2,0.4,39,"Corvallis, OR",13,None,32,6
+2010,Pedro Feliciano,4000000,2,Yankees,P,8000000,2,0.4,41,"Rio Piedras, Puerto Rico",9,None,34,2
+2010,Octavio Dotel,3500000,2,Blue Jays,P,3500000,1,0.375,44,"Santo Domingo, Dominican Republic",15,None,37,8
+2017,David Hernandez,2500000,2,Reds,P,5000000,2,0.366666667,32,"Sacramento, CA",8,None,32,8
+2017,Fernando Rodney,4500000,2,Twins,P,4500000,1,0.366666667,41,"Samana, DR",15,None,41,15
+2017,Tom Koehler,2000000,1,Dodgers,P,2000000,1,0.366666667,31,"Bronx, NY",6,Stony Brook,31,6
+2017,Ryan Raburn,535000,1,Nationals,OF,minor,1,0.366666667,36,"Tampa, FL",12,None,36,12
+2017,Hector Santiago,2000000,2,White Sox,P,minor,1,0.366666667,30,"Newark, NJ",7,None,30,7
+2016,Matt Belisle,2050000,1,Twins,P,2050000,1,0.366666667,37,"Austin, TX",14,None,36,13
+2015,Ryan Webb,1000000,1,Rays,P,1000000,1,0.366666667,32,"Clearwater, FL",8,None,30,6
+2014,Kevin Frandsen,1000000,1,Nationals,2B,1000000,1,0.366666667,35,"San Jose, CA",9,San Jose State,32,6
+2014,Tom Gorzelanny,1000000,1,Tigers,P,1000000,1,0.366666667,35,"Evergreen Park, IL",12,None,32,9
+2014,Ryan Ludwick,1750000,1,Rangers,OF,minor,,0.366666667,39,"Satellite Beach, FL",12,UNLV,36,9
+2013,Edward Mujica,4750000,2,Red Sox,P,9500000,2,0.366666667,33,"Valencia, Venezuela",12,None,29,8
+2013,Jason Frasor,1750000,1,Rangers,P,1750000,1,0.366666667,40,"Chicago, IL",12,S Illinois,36,8
+2013,Kyle Farnsworth,1000000,1,Mets,P,minor,1,0.366666667,41,"Wichita, KS",16,None,37,12
+2012,Jeremy Affeldt,6000000,1,Giants,P,18000000,3,0.366666667,38,"Phoenix, AZ",14,None,33,9
+2011,Mark DeRosa,800000,1,Nationals,2B,800000,1,0.366666667,43,"Passaic, NJ",16,Pennsylvania,37,10
+2011,Adam Kennedy,800000,1,Dodgers,3B,800000,1,0.366666667,42,"Riverside, CA",14,CSU Northridge,36,8
+2010,Cesar Izturis,1500000,2,Orioles,SS,1500000,1,0.366666667,38,"Barquisimeto, Venezuela",13,None,31,6
+2015,Joe Blanton,4000000,1,Dodgers,P,4000000,1,0.35,37,"Bowling Green, KY",13,Kentucky,35,11
+2010,Bartolo Colon,900000,2,Yankees,P,minor,1,0.35,44,"Altamira, Dominican Republic",20,None,37,13
+2017,Joaquin Benoit,1000000,2,Nationals,P,1000000,1,0.333333333,40,"Santiago, DR",16,None,40,16
+2016,Santiago Casilla,5500000,2,Athletics,P,11000000,2,0.333333333,37,"San Cristobal, DR",14,None,36,13
+2016,J.P. Howell,3000000,1,Blue Jays,P,3000000,1,0.333333333,34,"Modesto, CA",12,Texas,33,11
+2016,Emilio Bonifacio,1250000,2,Braves,OF,minor,1,0.333333333,32,"Santo Domingo, Dominican Republic",11,None,31,10
+2016,Blaine Boyer,100000,1,Braves,P,minor,1,0.333333333,36,"Atlanta, GA",11,None,35,10
+2016,Drew Stubbs,1000000,1,Twins,OF,minor,1,0.333333333,33,"Texarkana, TX",9,Texas,32,8
+2015,Ryan Vogelsong,2000000,1,Pirates,P,2000000,1,0.333333333,40,"Charlotte, NC",12,Kutztown,38,10
+2015,Gordon Beckham,1250000,1,Braves,2B,1250000,1,0.333333333,31,"Atlanta, GA",9,Georgia,29,7
+2015,Clint Barmes,200000,1,Royals,SS,minor   ,1,0.333333333,39,"Vincennes, IN",14,Indiana State,37,12
+2014,Munenori Kawasaki,1250000,4,Blue Jays,SS,minor,,0.333333333,36,"Kagoshima, Japan",5,None,33,2
+2013,Chris Dickerson,1250000,1,Pirates,OF,minor,1,0.333333333,35,"Hollywood, CA",7,Nevada,31,3
+2011,Shawn Camp,750000,1,Mariners,P,750000,1,0.333333333,42,"Fairfax, VA",11,George Mason,36,5
+2011,Chris Snyder,750000,1,Astros,C,750000,1,0.333333333,37,"Houston, TX",10,Houston,31,4
+2010,Ty Wigginton,4000000,1,Rockies,3B,8000000,2,0.333333333,40,"San Diego, CA",12,UNC-Asheville,33,5
+2010,Todd Coffey,1350000,1,Nationals,P,1350000,1,0.333333333,37,"Forest City, NC",8,None,30,1
+2010,Matt Albers,875000,1,Red Sox,P,875000,1,0.333333333,35,"Houston, TX",12,None,28,5
+2017,Alejandro De Aza,800000,2,Nationals,OF,minor,1,0.3,33,"Guaymate, DR",10,None,33,10
+2017,Oliver Perez,3500000,2,Reds,P,minor,1,0.3,36,"Culiacan, Mexico",15,None,36,15
+2017,Robbie Ross Jr.,1050000,1,White Sox,P,minor,1,0.3,28,"Lexington, KY",6,None,28,6
+2017,Eric Young Jr.,535000,3,Angels,OF,minor,1,0.3,32,"New Brunswick, NJ",9,None,32,9
+2016,Kendrys Morales,11000000,2,Blue Jays,DH,33000000,3,0.3,34,"Fomento, Cuba",11,None,33,10
+2016,Fernando Rodney,2750000,2,Diamondbacks,P,2750000,1,0.3,41,"Samana, DR",15,None,40,14
+2016,Trevor Cahill,1750000,1,Padres,P,1750000,1,0.3,30,"Oceanside, CA",9,None,29,8
+2016,Gavin Floyd,1000000,1,Blue Jays,P,minor,1,0.3,35,"Annapolis, MD",13,None,34,12
+2016,Seth Maness,1250000,1,Royals,P,minor,1,0.3,29,"Pinehurst, NC",5,East Carolina,28,4
+2015,Matt Albers,2250000,1,White Sox,P,2250000,1,0.3,35,"Houston, TX",12,None,33,10
+2015,Gavin Floyd,1000000,1,Blue Jays,P,1000000,1,0.3,35,"Annapolis, MD",13,None,33,11
+2015,Blaine Boyer,750000,1,Brewers,P,minor   ,1,0.3,36,"Atlanta, GA",11,None,34,9
+2015,Randy Choate,1250000,1,Blue Jays,P,minor   ,1,0.3,42,"San Antonio, TX",16,Florida State,40,14
+2015,Tom Gorzelanny,507000,1,Indians,P,minor   ,1,0.3,35,"Evergreen Park, IL",12,None,33,10
+2015,Manny Parra,1250000,2,Cubs,P,minor   ,1,0.3,35,"Carmichael, CA",9,None,33,7
+2014,Kendrys Morales,8500000,2,Royals,DH,17000000,2,0.3,34,"Fomento, Cuba",11,None,31,8
+2014,Joe Thatcher,1000000,1,Astros,P,minor,,0.3,36,"Indianapolis, IN",10,Indiana State,33,7
+2013,Willie Bloomquist,2900000,1,Mariners,SS,5800000,2,0.3,40,"Bremerton, WA",14,Arizona State,36,10
+2013,Roberto Hernandez,4500000,2,Phillies,P,4500000,1,0.3,37,"Santo Domingo, Dominican Republic",11,None,33,7
+2013,Jose Alberto Molina,2250000,2,Rays,P,4500000,2,0.3,26,"Bonao, Dominican Republic",16,None,22,12
+2013,Luis Ayala,1000000,2,Nationals,P,minor,1,0.3,40,"Los Mochis, Mexico",9,None,36,5
+2013,Andrew Bailey,1250000,1,Yankees,P,minor,1,0.3,33,"Haddon Heights, NJ",8,Wagner,29,4
+2011,Chad Qualls,1150000,1,Phillies,P,1150000,1,0.3,39,"Lomita, CA",14,Nevada,33,8
+2010,Randy Choate,1250000,1,Marlins,P,2500000,2,0.3,42,"San Antonio, TX",16,Florida State,35,9
+2010,Andruw Jones,2000000,3,Yankees,OF,2000000,1,0.3,40,"Willemstad, Netherlands Antilles",17,None,33,10
+2010,Dioner Navarro,1000000,2,Dodgers,C,1000000,1,0.3,34,"Caracas, Venezuela",13,None,27,6
+2010,Joe Beimel,800000,1,Pirates,P,minor,1,0.3,40,"St. Marys, PA",13,Duquesne,33,6
+2017,Jordan Lyles,1000000,1,Padres,P,1000000,1,0.266666667,27,"Hartsville, SC",7,None,27,7
+2017,Chris Carter,1750000,3,Angels,1B,minor,1,0.266666667,31,"Redwood City, CA",8,None,31,8
+2017,Trevor Plouffe,1750000,1,Rangers,3B,minor,1,0.266666667,31,"West Hills, CA",8,None,31,8
+2017,Vance Worley,1500000,1,Reds,P,minor,1,0.266666667,30,"Sacramento, CA",8,Long Beach State,30,8
+2016,Drew Butera,1900000,1,Royals,C,3800000,2,0.266666667,34,"Evansville, IN",8,UCF,33,7
+2016,A.J. Ellis,2500000,1,Marlins,C,2500000,1,0.266666667,36,"Cape Girardeau, MO",10,Austin Peay,35,9
+2016,Casey Fien,1100000,1,Mariners,P,1100000,1,0.266666667,34,"Santa Rosa, CA",8,Cal Poly,33,7
+2016,Casey Fien,1100000,1,Mariners,P,"$1,100,000 ",1,0.266666667,34,"Santa Rosa, CA",8,Cal Poly,33,7
+2016,Munenori Kawasaki,507500,4,Cubs,SS,minor,1,0.266666667,36,"Kagoshima, Japan",5,None,35,4
+2016,Brandon Morrow,1250000,1,Dodgers,P,minor,1,0.266666667,33,"Santa Rosa, CA",11,California,32,10
+2015,Joe Thatcher,1000000,1,Indians,P,minor   ,1,0.266666667,36,"Indianapolis, IN",10,Indiana State,34,8
+2013,Rajai Davis,5000000,2,Tigers,OF,10000000,2,0.266666667,37,"Norwich, CT",12,UConn,33,8
+2013,Jamey Wright,1800000,1,Dodgers,P,1800000,1,0.266666667,43,"Oklahoma City, OK",20,None,39,16
+2013,Zach Duke,850000,1,Brewers,P,minor,1,0.266666667,34,"Clifton, TX",13,None,30,9
+2013,Justin Turner,1250000,1,Dodgers,3B,minor,1,0.266666667,33,"Long Beach, CA",9,Cal State Fullerton,29,5
+2012,Kevin Correia,5000000,1,Twins,P,10000000,2,0.266666667,37,"San Diego, CA",13,Cal Poly,32,8
+2011,Kerry Wood,3000000,1,Cubs,P,3000000,1,0.266666667,40,"Irving, TX",14,None,34,8
+2011,Rich Hill,1250000,1,Red Sox,P,minor,,0.266666667,38,"Boston, MA",13,Michigan,32,7
+2016,Kris Medlen,1000000,1,Braves,P,minor,1,0.25,32,"Artesia, CA",7,None,31,6
+2013,Munenori Kawasaki,1250000,4,Blue Jays,SS,minor,1,0.25,36,"Kagoshima, Japan",5,None,32,1
+2017,Zach Duke,2150000,1,Twins,P,2150000,1,0.233333333,34,"Clifton, TX",13,None,34,13
+2017,Peter Moylan,575000,1,Braves,P,minor,1,0.233333333,39,"Lesmurdie, Australia",11,None,39,11
+2016,Boone Logan,5500000,1,Indians,P,5500000,1,0.233333333,33,"San Antonio, TX",12,None,32,11
+2016,Shawn Tolleson,1150000,1,Rays,P,1150000,1,0.233333333,30,"Dallas, TX",5,Baylor,29,4
+2016,Shawn Tolleson,1150000,1,Rays,P,"$1,150,000 ",1,0.233333333,30,"Dallas, TX",5,Baylor,29,4
+2016,Eric Fryer,675000,1,Cardinals,C,minor,1,0.233333333,32,"Columbus, OH",7,Ohio State,31,6
+2015,Brandon Morrow,1250000,1,Padres,P,minor   ,1,0.233333333,33,"Santa Rosa, CA",11,California,31,9
+2014,Phil Coke,2250000,1,Cubs,P,2250000,1,0.233333333,35,"Sonora, CA",9,None,32,6
+2014,Tim Stauffer,2200000,1,Twins,P,2200000,1,0.233333333,35,"Portland, ME",10,Richmond,32,7
+2014,Scott Downs,800000,1,Indians,P,minor,,0.233333333,42,"Louisville, KY",13,Kentucky,39,10
+2013,Chris Getz,1250000,1,Blue Jays,2B,minor,1,0.233333333,34,"Southfield, MI",7,Michigan,30,3
+2012,Randy Choate,2500000,1,Cardinals,P,7500000,3,0.233333333,42,"San Antonio, TX",16,Florida State,37,11
+2012,Tim Byrdak,1250000,1,Mets,P,minor,1,0.233333333,44,"Oak Lawn, IL",12,Rice,39,7
+2010,Will Ohman,2000000,1,White Sox,P,4000000,2,0.233333333,40,"Frankfurt, West Germany",10,Pepperdine,33,3
+2010,Kyle Farnsworth,3250000,1,Rays,P,3250000,1,0.233333333,41,"Wichita, KS",16,None,34,9
+2015,Sean Rodriguez,2500000,2,Pirates,1B,2500000,1,0.23,32,"Miami, FL",10,None,30,8
+2017,Rene Rivera,2800000,2,Angels,C,2800000,1,0.2,34,"Bayamon, Puerto Rico",9,None,34,9
+2017,Tyler Clippard,1500000,1,Blue Jays,P,minor,1,0.2,33,"Lexington, KY",11,None,33,11
+2017,Ichiro Suzuki,750000,4,Mariners,OF,minor,1,0.2,44,"Kasugai, Japan",17,None,44,17
+2016,Peter Moylan,1000000,1,Royals,P,minor,1,0.2,39,"Lesmurdie, Australia",11,None,38,10
+2015,Mark Lowe,5500000,1,Tigers,P,11000000,2,0.2,34,"Houston, TX",11,Texas-Arlington,32,9
+2015,Jonathan Broxton,3750000,1,Cardinals,P,7500000,2,0.2,33,"Augusta, GA",13,None,31,11
+2015,Jeremy Guthrie,1250000,4,Rangers,P,minor   ,1,0.2,38,"Roseburg, OR",14,Stanford,36,12
+2014,Jason Motte,4500000,1,Cubs,P,4500000,1,0.2,35,"Port Huron, MI",9,Iona,32,6
+2014,Alexi Casilla,1250000,2,Rays,2B,minor,,0.2,33,"San Cristobal, Dominican Republic",10,None,30,7
+2013,Wesley Wright,1425000,3,Cubs,P,1425000,1,0.2,33,"Montgomery, AL",9,None,29,5
+2013,Henry Blanco,750000,2,Diamondbacks,C,minor,1,0.2,46,"Caracas, Venezuela",17,None,42,13
+2013,Rich Hill,1250000,1,Red Sox,P,minor,1,0.2,38,"Boston, MA",13,Michigan,34,9
+2013,Jason Kubel,863387,1,Twins,OF,minor,1,0.2,35,"Belle Fourche, SD",10,None,31,6
+2012,Jason Marquis,3000000,1,Padres,P,3000000,1,0.2,39,"Manhasset, NY",15,None,34,10
+2011,Jose Mijares,925000,2,Royals,P,925000,1,0.2,33,"Caracas, Venezuela",6,None,27,0
+2011,Jo-Jo Reyes,1250000,2,Pirates,P,minor,,0.2,33,"West Covina, CA",7,Riverside CC,27,1
+2010,Blaine Boyer,725000,1,Mets,P,minor,1,0.2,36,"Atlanta, GA",11,None,29,4
+2010,Pedro Feliz,800000,2,Royals,3B,minor,1,0.16666667,42,"Azua, Dominican Republic",11,None,35,4
+2017,Xavier Cedeno,1050000,2,White Sox,P,minor,1,0.166666667,31,"Guayanilla, Puerto Rico",7,None,31,7
+2016,Michael Bourn,1250000,3,Orioles,OF,minor,1,0.166666667,35,"Houston, TX",11,Houston,34,10
+2016,Bryan Holaday,1000000,1,Phillies,C,minor,1,0.166666667,30,"Dallas, TX",6,TCU,29,5
+2014,Rich Hill,1250000,1,Nationals,P,minor,,0.166666667,38,"Boston, MA",13,Michigan,35,10
+2013,Ronny Cedeno,750000,2,Phillies,SS,minor,1,0.166666667,35,"Puerto Cabello, Venezuela",10,None,31,6
+2011,Matt Capps,4750000,1,Twins,P,4750000,1,0.166666667,34,"Douglasville, GA",9,None,28,3
+2011,Eli Whiteside,600000,1,Giants,C,600000,1,0.166666667,38,"New Albany, MS",6,Delta State,32,0
+2011,Dan Wheeler,1250000,1,Indians,P,minor,,0.166666667,40,"Warwick, RI",13,None,34,7
+2010,Bill Hall,3250000,3,Astros,3B,3250000,1,0.166666667,38,"Nettleton, MS",11,None,31,4
+2010,Brad Hawpe,3000000,1,Padres,1B,3000000,1,0.166666667,38,"Fort Worth, TX",9,LSU,31,2
+2015,Ross Ohlendorf,800000,1,Royals,P,minor   ,1,0.15,35,"Austin, TX",9,Princeton,33,7
+2011,Chien-Ming Wang,4000000,4,Nationals,P,4000000,1,0.15,38,"Tainan City, Taiwan",9,None,32,3
+2017,Brian Duensing,3500000,1,Cubs,P,7000000,2,0.133333333,35,"Marysville, KS",9,Nebraska,35,9
+2017,Jared Hughes,2250000,1,Reds,P,4500000,2,0.133333333,32,"Stamford, CT",7,Long Beach State,32,7
+2017,Trevor Cahill,1250000,1,Athletics,P,1250000,1,0.133333333,30,"Oceanside, CA",9,None,30,9
+2013,Matt Guerrier,426229,1,Twins,P,minor,1,0.133333333,39,"Cleveland, OH",11,Kent State,35,7
+2011,Guillermo Mota,1000000,2,Giants,P,1000000,1,0.133333333,44,"San Pedro de Macoris, Dominican Republic",14,None,38,8
+2011,Dontrelle Willis,850000,3,Phillies,P,850000,1,0.133333333,36,"Oakland, CA",9,None,30,3
+2010,Dan Wheeler,3000000,1,Red Sox,P,3000000,1,0.133333333,40,"Warwick, RI",13,None,33,6
+2014,Francisco Rodriguez,6500000,2,Brewers,P,13000000,2,0.13,36,"Caracas, Venezuela",16,None,33,13
+2017,Matt Albers,2500000,1,Brewers,P,5000000,2,0.1,35,"Houston, TX",12,None,35,12
+2017,Jake Petricka,1300000,1,Blue Jays,P,minor,1,0.1,29,"Northfield, IL",5,Indiana State,29,5
+2016,Ryan Brett,1250000,1,Rays,2B,minor,1,0.1,26,"Seattle, WA",2,None,25,1
+2016,Ramon Cabrera,508000,2,Marlins,C,minor,1,0.1,28,"Caracas, Venezuela",3,None,27,2
+2016,Lucas Harrell,510000,1,Blue Jays,P,minor,1,0.1,32,"Springfield, MO",7,None,31,6
+2016,Aaron Hill,2000000,1,Giants,2B,minor,1,0.1,36,"Visalia, CA",13,LSU,35,12
+2014,Craig Breslow,2000000,1,Red Sox,P,2000000,1,0.1,37,"New Haven, CT",12,Yale,34,9
+2014,Kyuji Fujikawa,1100000,4,Rangers,P,1100000,1,0.1,37,"Kochi City, Japan",3,None,34,0
+2011,Jason Michaels,1250000,1,Nationals,OF,minor,,0.1,41,"Tampa, FL",11,Miami,35,5
+2010,Melky Cabrera,1250000,2,Royals,OF,1250000,1,0.1,33,"Bajos De Haina, Dominican Republic",13,None,26,6
+2017,Ryan Goins,1000000,1,Royals,2B,minor,1,0.066666667,30,"Round Rock, TX",5,Dallas Baptist,30,5
+2016,Joe Nathan,1250000,1,Nationals,P,minor,1,0.066666667,43,"Houston, TX",16,Stony Brook,42,15
+2016,Jonathon Niese,500000,1,Yankees,P,minor,1,0.066666667,31,"Lima, OH",9,None,30,8
+2014,Joba Chamberlain,1000000,1,Tigers,P,1000000,1,0.066666667,32,"Lincoln, NE",10,Nebraska,29,7
+2013,Mitchell Boggs,1100000,1,White Sox,P,1100000,1,0.066666667,34,"Dalton, GA",6,Georgia,30,2
+2013,Daisuke Matsuzaka,1500000,4,Mets,P,minor,1,0.066666667,37,"Tokyo, Japan",8,None,33,4
+2013,Xavier Paul,1250000,1,Orioles,OF,minor,1,0.066666667,33,"Slidell, LA",6,None,29,2
+2013,Mark Reynolds,2000000,1,Brewers,1B,minor,1,0.066666667,34,"Pikeville, KY",11,Virginia,30,7
+2012,Raul Ibanez,2750000,2,Mariners,OF,2750000,1,0.066666667,45,"New York, NY",19,None,40,14
+2012,Ian Stewart,2000000,1,Cubs,3B,2000000,1,0.066666667,32,"Long Beach, CA",7,None,27,2
+2011,Cesar Izturis,875000,2,Brewers,SS,minor,,0.066666667,38,"Barquisimeto, Venezuela",13,None,32,7
+2017,Shae Simmons,750000,1,Cubs,P,minor,1,0.05,27,"Cape Girardeau, MO",3,SE Missouri St,27,3
+2016,Felix Doubront,2000000,2,Athletics,P,minor,1,0.05,30,"Carabobo, Venezuela",7,None,29,6
+2015,Casey McGehee,507000,1,Tigers,3B,minor   ,1,0.05,35,"Santa Cruz, CA",8,Fresno State,33,6
+2011,Trever Miller,800000,1,Cubs,P,minor,,0.05,44,"Louisville, KY",13,None,38,7
+2017,Shane Robinson,950000,1,Yankees,OF,minor,1,0.033333333,33,"Tampa, FL",8,Florida State,33,8
+2016,Neftali Feliz,5350000,2,Brewers,P,5350000,1,0.033333333,29,"Azua, DR",9,None,28,8
+2015,Brian Duensing,1250000,1,Royals,P,minor   ,1,0.033333333,35,"Marysville, KS",9,Nebraska,33,7
+2015,Wesley Wright,1250000,3,Diamondbacks,P,minor   ,1,0.033333333,33,"Montgomery, AL",9,None,31,7
+2013,Dylan Axelrod,1250000,1,White Sox,P,minor,1,0.033333333,32,"Santa Barbara, CA",6,UC-Irvine,28,2
+2013,Jason Giambi,1000000,1,Indians,DH,minor,1,0.033333333,47,"West Covina, CA",20,Long Beach State,43,16
+2012,Delmon Young,750000,3,Phillies,OF,750000,1,0.033333333,32,"Montgomery, AL",10,None,27,5
+2012,Dewayne Wise,700000,3,White Sox,OF,700000,1,0.033333333,40,"Columbia, SC",11,None,35,6
+2011,Matt Treanor,850000,1,Dodgers,C,850000,1,0.033333333,42,"Garden Grove, CA",9,None,36,3
+2011,Rodrigo Lopez,500000,2,Cubs,P,minor,,0.033333333,42,"Tlalnepantla, Mexico",11,None,36,5
+2010,Marcus Thames,1000000,3,Dodgers,OF,1000000,1,0.033333333,41,"Louisville, MS",10,None,34,3
+2013,Yorvit Torrealba,1250000,2,Angels,C,minor,1,0.016666667,39,"Caracas, Venezuela",13,None,35,9
+2011,Corey Patterson,900000,3,Brewers,OF,minor,,1.85E-17,38,"Atlanta, GA",12,None,32,6
+2017,Craig Stammen,2250000,1,Padres,P,4500000,2,0,34,"North Star, OH",8,Dayton,34,8
+2017,Peter Bourjos,1450000,1,Cubs,OF,1450000,1,0.00E+00,30,"Park Ridge, IL",8,None,30,8
+2017,Ryan Hanigan,1250000,1,Indians,C,minor,1,0.00E+00,37,"Washington, DC",11,Rollins,37,11
+2016,Jeff Mathis,2000000,1,Diamondbacks,C,4000000,2,0.00E+00,34,"Marianna, FL",13,None,33,12
+2016,Sean Burnett,1250000,1,Phillies,P,minor,1,0,35,"Dunedin, FL",9,None,34,8
+2016,David Hernandez,850000,2,Giants,P,minor,1,0,32,"Sacramento, CA",8,None,31,7
+2016,Keyvius Sampson,507000,3,Diamondbacks,P,minor,1,0,27,"Gainesville, FL",2,None,26,1
+2014,Roberto Hernandez,2650000,2,Astros,P,minor,,0,37,"Santo Domingo, Dominican Republic",11,None,34,8
+2014,Reed Johnson,1000000,1,Marlins,OF,minor,,0,41,"Riverside, CA",14,Cal State Fullerton,38,11
+2014,Nick Masset,135887,1,Marlins,P,minor,,0,35,"St. Petersburg, FL",9,None,32,6
+2014,Wil Nieves,850000,2,Padres,C,minor,,0,40,"San Juan, Puerto Rico",12,None,37,9
+2013,J.P. Howell,5625000,1,Dodgers,P,11250000,2,0,34,"Modesto, CA",12,Texas,30,8
+2013,Skip Schumaker,2500000,1,Reds,2B,5000000,2,0,38,"Torrance, CA",12,UC-Santa Barbara,34,8
+2013,Carlos Marmol,1250000,2,Marlins,P,1250000,1,0,35,"Bonao, Dominican Republic",10,None,31,6
+2013,Juan Gutierrez,1250000,2,Giants,P,minor,1,0,34,"Puerto la Cruz, Venezuela",6,None,30,2
+2013,Chad Tracy,1250000,1,Angels,3B,minor,,0,37,"Charlotte, NC",9,East Carolina,33,5
+2011,Brian Schneider,800000,1,Phillies,C,800000,1,0,41,"Jacksonville, FL",13,None,35,7
+2011,Doug Slaten,480000,1,Pirates,P,minor,,0,38,"Venice, CA",7,None,32,1
+2010,Joel Peralta,950000,2,Rays,P,950000,1,0,42,"Bonao, Dominican Republic",12,None,35,5
+2010,Dustin Moseley,900000,1,Padres,P,900000,1,0,36,"Texarkana, TX",7,None,29,0
+2017,Chris Stewart,575000,1,Braves,C,minor,1,-0.033333333,36,"Fontana, CA",11,Riverside CC,36,11
+2016,Stephen Drew,3500000,1,Nationals,SS,3500000,1,-0.033333333,35,"Valdosta, GA",12,Florida State,34,11
+2016,Ryan Raburn,535000,1,Reds,OF,minor,1,-0.033333333,36,"Tampa, FL",12,None,35,11
+2015,John Axford,5000000,1,Athletics,P,10000000,2,-0.033333333,34,"Simcoe, ON",9,Canisius,32,7
+2015,David Murphy,2000000,1,Red Sox,OF,minor   ,1,-0.033333333,36,"Houston, TX",11,Baylor,34,9
+2014,Franklin Morales,1850000,2,Royals,P,minor,,-0.033333333,32,"San Juan de los Morros, Venezuela",10,None,29,7
+2013,Matt Albers,2450000,1,Astros,P,2450000,1,-0.033333333,35,"Houston, TX",12,None,31,8
+2013,Brandon Snyder,1250000,1,Red Sox,1B,minor,1,-0.033333333,31,"Las Vegas, NV",6,None,27,2
+2011,Fernando Rodney,2000000,2,Rays,P,2000000,1,-0.033333333,41,"Samana, Dominican Republic",15,None,35,9
+2011,Brad Lidge,1000000,1,Nationals,P,1000000,1,-0.033333333,41,"Sacramento, CA",11,Notre Dame,35,5
+2011,Micah Owings,1000000,1,Padres,P,1000000,1,-0.033333333,35,"Gainesville, GA",6,Tulane,29,0
+2011,Willie Harris,800000,3,Reds,OF,minor,,-0.033333333,39,"Cairo, GA",12,Kennesaw State,33,6
+2011,Brad Hawpe,1000000,1,Rangers,1B,minor,,-0.033333333,38,"Fort Worth, TX",9,LSU,32,3
+2010,Aaron Heilman,2000000,1,Diamondbacks,P,2000000,1,-0.033333333,39,"Logansport, IN",9,Notre Dame,32,2
+2010,Jeremy Accardo,1080000,1,Orioles,P,1080000,1,-0.033333333,36,"Mesa, AZ",8,Illinois State,29,1
+2017,A.J. Griffin,750000,1,Mets,P,minor,1,-0.05,30,"El Cajon, CA",4,San Diego,30,4
+2016,Andrew Bailey,1000000,1,Angels,P,1000000,1,-0.05,33,"Haddon Heights, NJ",8,Wagner,32,7
+2016,Logan Ondrusek,650000,1,Orioles,P,650000,1,-0.05,33,"Shiner, TX",6,None,32,5
+2016,Andrew Bailey,1000000,1,Angels,P,"$1,000,000 ",1,-0.05,33,"Haddon Heights, NJ",8,Wagner,32,7
+2016,Logan Ondrusek,650000,1,Orioles,P,"$650,000 ",1,-0.05,33,"Shiner, TX",6,None,32,5
+2015,Jason Motte,5000000,1,Rockies,P,10000000,2,-0.05,35,"Port Huron, MI",9,Iona,33,7
+2014,Scott Baker,507500,1,Yankees,P,minor,,-0.05,36,"Shreveport, LA",10,Oklahoma State,33,7
+2017,T.J. McFarland,850000,1,Diamondbacks,P,850000,1,-0.066666667,28,"Palos Park, IL",5,None,28,5
+2017,Ryan Flaherty,750000,1,Phillies,2B,minor,1,-0.066666667,31,"Portland, ME",6,Vanderbilt,31,6
+2017,Cliff Pennington,1500000,1,Reds,2B,minor,1,-0.066666667,33,"Corpus Christi, TX",10,Texas A&M;,33,10
+2016,Hector Sanchez,750000,2,Padres,C,minor,1,-0.066666667,28,"Maracay, Venezuela",7,None,27,6
+2015,Brayan Pena,2500000,2,Cardinals,C,5000000,2,-0.066666667,36,"Havana, Cuba",13,None,34,11
+2015,Ross Detwiler,100000,1,Indians,P,minor   ,1,-0.066666667,32,"St. Louis, MO",9,Missouri State,30,7
+2015,Franklin Morales,2000000,2,Brewers,P,minor   ,1,-0.066666667,32,"San Juan de los Morros, Venezuela",10,None,30,8
+2015,Edward Mujica,1250000,2,Phillies,P,minor   ,1,-0.066666667,33,"Valencia, Venezuela",12,None,31,10
+2013,Joba Chamberlain,2500000,1,Tigers,P,2500000,1,-0.066666667,32,"Lincoln, NE",10,Nebraska,28,6
+2013,Brayan Pena,1137500,2,Reds,C,2275000,2,-0.066666667,36,"Havana, Cuba",13,None,32,9
+2013,Brian Roberts,2000000,1,Yankees,2B,2000000,1,-0.066666667,40,"Durham, NC",14,South Carolina,36,10
+2013,Jairo Asencio,1250000,2,White Sox,P,minor,1,-0.066666667,34,"Sabana Grande Palenque, Dominican Republic",4,None,30,0
+2013,Chris Snyder,1250000,1,Nationals,C,minor,1,-0.066666667,37,"Houston, TX",10,Houston,33,6
+2012,Dioner Navarro,1175000,2,Cubs,C,1175000,1,-0.066666667,34,"Caracas, Venezuela",13,None,29,8
+2016,Matt Albers,2500000,1,Nationals,P,minor,2,-0.1,35,"Houston, TX",12,None,34,11
+2016,Eric O'Flaherty,3186017,1,Braves,P,minor,1,-0.1,33,"Walla Walla, WA",12,None,32,11
+2016,Gregorio Petit,1250000,2,Blue Jays,SS,minor,1,-0.1,33,"Ocumare del Tuy, Venezuela",6,None,32,5
+2015,Peter Moylan,1000000,1,Royals,P,minor   ,1,-0.1,39,"Lesmurdie, Australia",11,None,37,9
+2015,Eric O'Flaherty,1750000,1,Pirates,P,minor   ,1,-0.1,33,"Walla Walla, WA",12,None,31,10
+2014,Daniel Descalso,1800000,1,Rockies,3B,3600000,2,-0.1,31,"Redwood City, CA",8,UC Davis,28,5
+2014,Justin Smoak,1000000,1,Blue Jays,1B,1000000,1,-0.1,31,"Goose Creek, SC",8,South Carolina,28,5
+2013,Dan Johnson,1250000,1,Blue Jays,1B,minor,1,-0.1,38,"Coon Rapids, MN",10,Nebraska,34,6
+2013,Peter Moylan,1250000,1,Astros,P,minor,1,-0.1,39,"Lesmurdie, Australia",11,None,35,7
+2013,Omar Quintanilla,1250000,2,Mets,SS,minor,1,-0.1,36,"El Paso, TX",9,Texas,32,5
+2011,Josh Bard,1250000,1,Dodgers,C,minor,,-0.1,40,"Ithaca, NY",10,Texas Tech,34,4
+2011,Scott Linebrink,850000,1,Cardinals,P,minor,,-0.1,41,"Austin, TX",12,Texas State,35,6
+2010,Willie Bloomquist,900000,1,Diamondbacks,SS,900000,1,-0.1,40,"Bremerton, WA",14,Arizona State,33,7
+2010,Wil Nieves,775000,2,Brewers,C,775000,1,-0.1,40,"San Juan, Puerto Rico",12,None,33,5
+2013,Chad Qualls,3000000,1,Astros,P,6000000,2,-0.125,39,"Lomita, CA",14,Nevada,35,10
+2011,Mike MacDougal,1000000,1,Dodgers,P,1000000,1,-0.133333333,41,"Las Vegas, NV",12,Wake Forest,35,6
+2011,Koyie Hill,1250000,1,Cardinals,C,minor,,-0.133333333,39,"Tulsa, OK",11,Wichita State,33,5
+2010,Matt Guerrier,4000000,1,Dodgers,P,12000000,3,-0.133333333,39,"Cleveland, OH",11,Kent State,32,4
+2010,Matt Treanor,850000,1,Rangers,C,850000,1,-0.133333333,42,"Garden Grove, CA",9,None,35,2
+2016,Jon Edwards,509000,1,Padres,P,minor,1,-0.15,30,"Chicago, IL",3,None,29,2
+2016,Chris Withrow,1000000,1,Royals,P,minor,1,-0.15,28,"Austin, TX",3,None,27,2
+2013,Cesar Izturis,1250000,2,Astros,SS,minor,1,-0.166666667,38,"Barquisimeto, Venezuela",13,None,34,9
+2013,Taylor Teagarden,725000,1,Mets,C,minor,1,-0.166666667,34,"Dallas, TX",8,Texas,30,4
+2017,Erick Aybar,1250000,2,Twins,SS,1250000,1,-0.2,34,"Bani, DR",12,None,34,12
+2016,Brian Duensing,2000000,1,Cubs,P,2000000,1,-0.2,35,"Marysville, KS",9,Nebraska,34,8
+2016,Gordon Beckham,1250000,1,Giants,2B,minor,1,-0.2,31,"Atlanta, GA",9,Georgia,30,8
+2016,Louis Coleman,535000,1,Reds,P,minor,1,-0.2,31,"Greenwood, MS",6,LSU,30,5
+2016,Jared Hoying,535000,1,Rangers,OF,minor,1,-0.2,28,"Sidney, OH",2,Toledo,27,1
+2016,Zac Rosscup,535000,1,Cubs,P,minor,1,-0.2,29,"Clackamas, OR",4,None,28,3
+2015,Jeff Mathis,1500000,1,Marlins,C,1500000,1,-0.2,34,"Marianna, FL",13,None,32,11
+2014,Joe Beimel,600000,1,Rangers,P,minor,,-0.2,40,"St. Marys, PA",13,Duquesne,37,10
+2014,Kevin Gregg,1500000,1,Reds,P,minor,,-0.2,39,"Corvallis, OR",13,None,36,10
+2011,Miguel Batista,500000,2,Mets,P,minor,,-0.2,47,"Santo Domingo, Dominican Republic",18,None,41,12
+2011,Alex Cora,1250000,2,Cardinals,SS,minor,,-0.2,42,"Caguas, Puerto Rico",14,Miami,36,8
+2011,Chris Gimenez,1250000,1,Rays,C,minor,,-0.2,35,"Gilroy, CA",9,Nevada,29,3
+2011,Ramon Ortiz,1250000,2,Giants,P,minor,,-0.2,44,"Cotui, Dominican Republic",12,None,38,6
+2016,Daniel Descalso,1500000,1,Diamondbacks,3B,1500000,1,-0.233333333,31,"Redwood City, CA",8,UC Davis,30,7
+2016,Adam Lind,1500000,1,Nationals,OF,1500000,1,-0.233333333,34,"Muncie, IN",12,South Alabama,33,11
+2016,A.J. Achter,600000,1,Tigers,P,minor,1,-0.233333333,29,"Toledo, OH",3,Michigan State,28,2
+2016,Jaff Decker,535000,1,Athletics,OF,minor,1,-0.233333333,28,"Phoenix, AZ",5,None,27,4
+2013,Wil Nieves,1125000,2,Phillies,C,1125000,1,-0.233333333,40,"San Juan, Puerto Rico",12,None,36,8
+2011,J.C. Romero,750000,2,Cardinals,P,750000,1,-0.233333333,41,"Rio Piedras, Puerto Rico",14,Mobile,35,8
+2011,Chad Durbin,900000,1,Nationals,P,minor,,-0.233333333,40,"Spring Valley, IL",14,None,34,8
+2011,John Grabow,1250000,1,Dodgers,P,minor,,-0.233333333,39,"Arcadia, CA",9,None,33,3
+2013,Casey McGehee,1100000,1,Marlins,3B,1100000,1,-0.25,35,"Santa Cruz, CA",8,Fresno State,31,4
+2013,Manny Corpas,1250000,2,Rockies,P,minor,1,-0.25,35,"Panama City, Panama",7,None,31,3
+2013,Mat Gamel,1250000,1,Braves,1B,minor,1,-0.25,32,"Jacksonville, FL",5,None,28,1
+2012,Oliver Perez,1500000,2,Mariners,P,1500000,1,-0.25,36,"Culiacan, Mexico",15,None,31,10
+2016,Ross Detwiler,1000000,1,Athletics,P,minor,1,-0.266666667,32,"St. Louis, MO",9,Missouri State,31,8
+2016,James Loney,1000000,3,Rangers,1B,minor,1,-0.266666667,33,"Houston, TX",11,None,32,10
+2016,Jose Pirela,535000,2,Padres,OF,minor,1,-0.266666667,28,"Valera, Venezuela",4,None,27,3
+2013,Raul Ibanez,2750000,2,Angels,OF,2750000,1,-0.266666667,45,"New York, NY",19,None,41,15
+2013,Endy Chavez,500000,3,Mariners,OF,minor,1,-0.266666667,40,"Valencia, Venezuela",13,None,36,9
+2013,Chris Coghlan,1250000,1,Cubs,3B,minor,1,-0.266666667,32,"Rockville, MD",9,Ole Miss,28,5
+2013,Pat Neshek,1000000,1,Cardinals,P,minor,1,-0.266666667,37,"Madison, WI",11,Butler,33,7
+2012,Nate McLouth,2000000,1,Orioles,OF,2000000,1,-0.266666667,36,"Muskegon, MI",10,None,31,5
+2011,Willie Bloomquist,1900000,1,Diamondbacks,SS,3800000,2,-0.266666667,40,"Bremerton, WA",14,Arizona State,34,8
+2011,Jamey Wright,1250000,1,Dodgers,P,minor,,-0.266666667,43,"Oklahoma City, OK",20,None,37,14
+2010,Josh Bard,1000000,1,Mariners,C,minor,1,-0.266666667,40,"Ithaca, NY",10,Texas Tech,33,3
+2017,Adam Lind,2000000,1,Yankees,OF,minor,1,-0.3,34,"Muncie, IN",12,South Alabama,34,12
+2016,Erik Johnson,507500,1,Padres,P,minor,1,-0.3,28,"Mountain View, CA",4,California,27,3
+2016,Chris Narveson,1000000,1,Indians,P,minor,1,-0.3,36,"Englewood, CO",8,None,35,7
+2015,Craig Breslow,1500000,1,Marlins,P,minor   ,1,-0.3,37,"New Haven, CT",12,Yale,35,10
+2014,Michael Morse,4000000,1,Marlins,1B,8000000,2,-0.3,36,"Fort Lauderdale, FL",13,None,33,10
+2010,J.C. Romero,1350000,2,Phillies,P,1350000,1,-0.3,41,"Rio Piedras, Puerto Rico",14,Mobile,34,7
+2013,Kameron Loe,500000,1,Giants,P,minor,1,-0.325,36,"Simi Valley, CA",9,CSU Northridge,32,5
+2010,Kevin Frandsen,1250000,1,Padres,2B,minor,1,-0.3333333,35,"San Jose, CA",9,San Jose State,28,2
+2016,Dustin McGowan,1750000,1,Marlins,P,1750000,1,-0.333333333,36,"Savannah, GA",10,None,35,9
+2014,Delmon Young,2250000,3,Orioles,OF,2250000,1,-0.333333333,32,"Montgomery, AL",10,None,29,7
+2013,Lyle Overbay,1500000,1,Brewers,1B,minor,1,-0.333333333,41,"Centralia, WA",14,Nevada,37,10
+2012,Matt Diaz,1250000,1,Yankees,OF,minor,1,-0.333333333,40,"Portland, OR",11,Florida State,35,6
+2014,Brad Penny,1250000,1,White Sox,P,minor,,-0.35,39,"Blackwell, OK",15,None,36,12
+2013,David Aardsma,1250000,1,Indians,P,minor,1,-0.35,36,"Denver, CO",10,Rice,32,6
+2017,J.J. Hoover,1100000,1,Brewers,P,minor,1,-0.366666667,30,"Pittsburgh, PA",6,None,30,6
+2013,Adam Rosales,750000,2,Rangers,SS,750000,1,-0.366666667,34,"Chicago, IL",10,Western Michigan,30,6
+2013,Koyie Hill,1250000,1,Nationals,C,minor,1,-0.366666667,39,"Tulsa, OK",11,Wichita State,35,7
+2011,Conor Jackson,1250000,1,Rangers,1B,minor,,-0.366666667,35,"Austin, TX",7,California,29,1
+2010,Eric Chavez,1500000,2,Yankees,3B,minor,1,-0.366666667,40,"Los Angeles, CA",17,None,33,10
+2016,Cody Asche,535000,1,White Sox,3B,minor,1,-0.4,27,"St. Charles, MO",5,Nebraska,26,4
+2012,Ty Wigginton,2500000,1,Cardinals,3B,5000000,2,-0.4,40,"San Diego, CA",12,UNC-Asheville,35,7
+2012,J.P. Howell,2850000,1,Dodgers,P,2850000,1,-0.4,34,"Modesto, CA",12,Texas,29,7
+2015,Mike Aviles,2000000,2,Tigers,SS,2000000,1,-0.433333333,37,"New York, NY",10,Concordia  (NY),35,8
+2014,Joel Hanrahan,1000000,1,Tigers,P,minor,,-0.55,36,"Des Moines, IA",7,None,33,4
+2011,Bill Hall,600000,3,Yankees,3B,minor,,-0.566666667,38,"Nettleton, MS",11,None,32,5
+2010,Mark Kotsay,800000,1,Brewers,OF,800000,1,-0.566666667,42,"Whittier, CA",17,Cal State Fullerton,35,10
+2011,Mark Kotsay,1250000,1,Padres,OF,1250000,1,-0.6,42,"Whittier, CA",17,Cal State Fullerton,36,11
+2010,Miguel Batista,750000,3,Cardinals,P,minor,1,-0.633333333,47,"Santo Domingo, Dominican Republic",18,None,40,11
+2014,Endy Chavez,750000,2,Mariners,OF,minor,,-0.733333333,40,"Valencia, Venezuela",13,None,37,10
+2011,Ryan Spilborghs,1000000,1,Indians,OF,minor,,-0.733333333,38,"Santa Barbara, CA",7,UC-Santa Barbara,32,1
+2011,Omar Vizquel,1250000,2,Blue Jays,2B,minor,,-0.733333333,50,"Caracas, Venezuela",24,None,44,18
+2015,Jeff Francoeur,1000000,1,Braves,OF,minor   ,1,-0.766666667,34,"Atlanta, GA",12,None,32,10
+2013,Delmon Young,1250000,3,Orioles,OF,minor,1,-0.766666667,32,"Montgomery, AL",10,None,28,6
+2015,Maicer Izturis,1000000,2,Blue Jays,2B,minor   ,1,-1,37,"Barquisimeto, Venezuela",12,None,35,10
+2015,Skip Schumaker,500000,1,Padres,2B,minor   ,1,-1.1,38,"Torrance, CA",12,UC-Santa Barbara,36,10
+2013,Chone Figgins,900000,3,Dodgers,3B,minor,1,-1.2,40,"Leary, GA",12,None,36,8
